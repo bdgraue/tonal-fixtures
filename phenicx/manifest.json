@@ -1,6 +1,6 @@
 {
   "format": "tonal-corpus-manifest",
-  "generated_at": "2026-05-04T06:11:51.941040+00:00",
+  "generated_at": "2026-05-04T08:53:12.227546+00:00",
   "source": "phenicx_anechoic",
   "tracks": [
     {
@@ -10,7 +10,7 @@
       "license": "non-commercial",
       "piece": "beethoven",
       "sample_rate": 44100,
-      "sha256": "db1dcd6085774f35702ce77c83869084e46c74bf1390eaf7669603d1e1e81f7c",
+      "sha256": "c0052de3c1cb43573b175b5d18c0d5fe20ff8d4de1186306f87b094ab66bbc82",
       "source": "phenicx_anechoic",
       "stem_count": 2
     },
@@ -21,7 +21,7 @@
       "license": "non-commercial",
       "piece": "bruckner",
       "sample_rate": 44100,
-      "sha256": "88e82b6140cbce558c53dce17174e630dff927a59d5187e517ec00b07a9b90d1",
+      "sha256": "63b0c0b0fbda85f2d3ac7e1d6962c08849ee3a4c15bec3c1640bf73240128cc5",
       "source": "phenicx_anechoic",
       "stem_count": 3
     },
@@ -32,7 +32,7 @@
       "license": "non-commercial",
       "piece": "mahler",
       "sample_rate": 44100,
-      "sha256": "2a338b0f6b89726c2daecb6b82f10cb63a1a32d0d835942813f9ea9d93ea796e",
+      "sha256": "bb3d592f8c50daaf99051e401dfe1125edb9a8f03ab28101cd0a7e1daa2a6437",
       "source": "phenicx_anechoic",
       "stem_count": 4
     }

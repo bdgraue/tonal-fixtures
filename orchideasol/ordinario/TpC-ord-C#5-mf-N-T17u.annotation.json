@@ -3,7 +3,7 @@
   "version": 1,
   "audio": "TpC-ord-C#5-mf-N-T17u.wav",
   "class": "TpC-ord",
-  "annotatedAt": "2026-05-04T08:08:48.075396+00:00",
+  "annotatedAt": "2026-05-04T08:53:37.820268+00:00",
   "detectorVersion": "orchideasol:peak-rms-gradient",
   "notes": "Auto-converted from OrchideaSOL technique=ord, pitch=C#5, dynamic=mf. Onset = first window where RMS > 1% of peak RMS. sample_rate=44100, window_size=2048.",
   "markers": [

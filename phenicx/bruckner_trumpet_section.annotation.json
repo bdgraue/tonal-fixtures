@@ -3,7 +3,7 @@
   "version": 1,
   "audio": "bruckner_trumpet_section.wav",
   "class": "phenicx_trumpet_section",
-  "annotatedAt": "2026-05-04T06:11:57.216522+00:00",
+  "annotatedAt": "2026-05-04T08:53:18.597394+00:00",
   "detectorVersion": "phenicx-anechoic:trumpet.txt",
   "notes": "Auto-converted from PHENICX-Anechoic bruckner_trumpet.txt. sample_rate=44100, window_size=2048, note_count=146 (deduped @ 5ms).",
   "markers": [

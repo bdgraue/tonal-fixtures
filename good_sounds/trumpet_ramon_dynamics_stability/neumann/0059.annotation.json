@@ -3,7 +3,7 @@
   "version": 1,
   "audio": "0059.wav",
   "class": "bad-dynamics-stability-tremolo",
-  "annotatedAt": "2026-05-04T06:42:49.297273+00:00",
+  "annotatedAt": "2026-05-04T09:03:12.496337+00:00",
   "detectorVersion": "good-sounds:attack",
   "notes": "Auto-converted from Good-Sounds track id=3780 (attack=11600 samples, semitone=65, dynamics=~). sample_rate=48000, window_size=2048.",
   "markers": [

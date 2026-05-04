@@ -3,7 +3,7 @@
   "version": 1,
   "audio": "beethoven_trumpet_section.wav",
   "class": "phenicx_trumpet_section",
-  "annotatedAt": "2026-05-04T06:11:57.216278+00:00",
+  "annotatedAt": "2026-05-04T08:53:18.597152+00:00",
   "detectorVersion": "phenicx-anechoic:trumpet.txt",
   "notes": "Auto-converted from PHENICX-Anechoic beethoven_trumpet.txt. sample_rate=44100, window_size=2048, note_count=43 (deduped @ 5ms).",
   "markers": [

@@ -1,6 +1,6 @@
 {
   "format": "tonal-corpus-manifest",
-  "generated_at": "2026-05-04T08:04:41.608991+00:00",
+  "generated_at": "2026-05-04T08:53:37.637473+00:00",
   "source": "orchideasol",
   "source_archive": "_OrchideaSOL2020_release.zip",
   "tracks": [
@@ -14,7 +14,7 @@
       "mute2": "T23u",
       "pitch": "A#3",
       "sample_rate": 44100,
-      "sha256": "1dd8b0b94a7c2603ecae746550c0e3e027fb717928b165644615697ac8a1c779",
+      "sha256": "5211055c5341104c90aaadcd9b89713b0c674fb56051b570da4d565d4f6c55d2",
       "source": "orchideasol",
       "technique": "brassy"
     },
@@ -28,7 +28,7 @@
       "mute2": "N",
       "pitch": "A#4",
       "sample_rate": 44100,
-      "sha256": "de313f167ff2690c0b25814825fb76f1c38bef8802b4c110ca61f005367e4271",
+      "sha256": "64111b41bfaf7f8ece85a367b50968338eeb06589a49ae1578bbc97f29e8ca71",
       "source": "orchideasol",
       "technique": "brassy"
     },
@@ -42,7 +42,7 @@
       "mute2": "N",
       "pitch": "A#5",
       "sample_rate": 44100,
-      "sha256": "a1b8a4feab831202da89b0181c7bafcb6bb5a0db645afd7efebd3c1a47570061",
+      "sha256": "3328c17d2f8f93320a0b8d3d9dc88267d7165afeb47261c6a66fb5ac22e3f791",
       "source": "orchideasol",
       "technique": "brassy"
     },
@@ -56,7 +56,7 @@
       "mute2": "T13u",
       "pitch": "A3",
       "sample_rate": 44100,
-      "sha256": "f4bdb22447978dc7fb30541ac7eed4a21107fa68dc2698e07788fcf2678167db",
+      "sha256": "409d6c282802b607665f57eb83d5f648203145fcd2dbca505fbdc9a414889d09",
       "source": "orchideasol",
       "technique": "brassy"
     },
@@ -70,7 +70,7 @@
       "mute2": "N",
       "pitch": "A4",
       "sample_rate": 44100,
-      "sha256": "1b196e37de410142e808d2b00432b9f24bd33d34ca7ff1760713085a3093412b",
+      "sha256": "b02d4e7e4a4863f2a717f78a5c3649c5c8934f5da635871afce6fd1cf7aa010e",
       "source": "orchideasol",
       "technique": "brassy"
     },
@@ -84,7 +84,7 @@
       "mute2": "T16d",
       "pitch": "A5",
       "sample_rate": 44100,
-      "sha256": "91afd3217cc273e311afb13bc6f26c34df725c22b1bc11ce07ce0f6fadb67a35",
+      "sha256": "d3605ea8abd7cef1633baf016731969d9f9eae3cb950c6c5932548fdc0aa62e4",
       "source": "orchideasol",
       "technique": "brassy"
     },
@@ -98,7 +98,7 @@
       "mute2": "T24u",
       "pitch": "B3",
       "sample_rate": 44100,
-      "sha256": "2a523d1a5002dd530877d0d57d29d73225338afeb91d6a7eb19483507f117bd3",
+      "sha256": "12a5025d24026b018110578cad9cf7fc4aaa98cb525ebf075c45cd43a8121aed",
       "source": "orchideasol",
       "technique": "brassy"
     },
@@ -112,7 +112,7 @@
       "mute2": "T17d",
       "pitch": "B4",
       "sample_rate": 44100,
-      "sha256": "1d3f2c1284e7de3f6860d0f1f1e1b9a890aee10e26d0dbf509dec30e55dacf2e",
+      "sha256": "05a5fbede1a34616a410634a371ff7be574d681d210b8457cbcbcd32026c4a79",
       "source": "orchideasol",
       "technique": "brassy"
     },
@@ -126,7 +126,7 @@
       "mute2": "N",
       "pitch": "B5",
       "sample_rate": 44100,
-      "sha256": "4eb9b349415542b9fcf87a5f8b9cd23bb261622c7cb809954ab1b19c2541d62f",
+      "sha256": "375698cedb21f6ec94e7481d72125135a2ff9b9fa91f190c8bafb4c66226528c",
       "source": "orchideasol",
       "technique": "brassy"
     },
@@ -140,7 +140,7 @@
       "mute2": "T11u_R100u",
       "pitch": "C#4",
       "sample_rate": 44100,
-      "sha256": "daa600d63576ac99d2210e1946c05f431b2e21799e47fe416fa97942b14a4e80",
+      "sha256": "c32ba004537038139c7b98a540536b28188dbe42ed38df81305d8df16ff99070",
       "source": "orchideasol",
       "technique": "brassy"
     },
@@ -154,7 +154,7 @@
       "mute2": "T25d",
       "pitch": "C#5",
       "sample_rate": 44100,
-      "sha256": "bebfd9759b46767902dd92dd17cb35980436bdbc8aea9387c45a00c01e278194",
+      "sha256": "d344850ade3af4f8b1389c65eb7c6872b4b150a1cf4fac8902f8c24eceb1e7c7",
       "source": "orchideasol",
       "technique": "brassy"
     },
@@ -168,7 +168,7 @@
       "mute2": "T11u",
       "pitch": "C4",
       "sample_rate": 44100,
-      "sha256": "e91144d83cd15bcb24db77c139f8e756d9f01b1198328f6222f29423e11a4e4e",
+      "sha256": "0235d914e3097fb066b8f70406857c57252b6b755716b7ca65ac198db07203e3",
       "source": "orchideasol",
       "technique": "brassy"
     },
@@ -182,7 +182,7 @@
       "mute2": "N",
       "pitch": "C5",
       "sample_rate": 44100,
-      "sha256": "a48694ad50adf0c749cd8a2404a0c6380dcbe4168018845be0d82b8a90ababd8",
+      "sha256": "8127b9983e35610e05489945aa2492737270395f0d092239ac750c93816425f0",
       "source": "orchideasol",
       "technique": "brassy"
     },
@@ -196,7 +196,7 @@
       "mute2": "N",
       "pitch": "C6",
       "sample_rate": 44100,
-      "sha256": "0a30af4235c94970f827526882bef23d5f710557efdfaee2851917ee01cf3409",
+      "sha256": "36ce2eb6255821490bcb7c3840fb069412810162163f098b60d5fd54e39ffba0",
       "source": "orchideasol",
       "technique": "brassy"
     },
@@ -210,7 +210,7 @@
       "mute2": "T21u_R100u",
       "pitch": "D#4",
       "sample_rate": 44100,
-      "sha256": "89d76853bcc7d631fb7cc03f9d1fe0e40e738941dafe8c76257aacb1347c6be2",
+      "sha256": "7f6653208db603ea399a6a8267281d6abc2404932d66dbb8c14420eb525515b5",
       "source": "orchideasol",
       "technique": "brassy"
     },
@@ -224,7 +224,7 @@
       "mute2": "T22d",
       "pitch": "D#5",
       "sample_rate": 44100,
-      "sha256": "20af6861ae6a372cd3df696ab0c293b1015635593326211523da5e169dd0a508",
+      "sha256": "52d36c1ad3b5ecf2b230e2f675bcfa8b5210a51457024df07bd63fdd70d74a1e",
       "source": "orchideasol",
       "technique": "brassy"
     },
@@ -238,7 +238,7 @@
       "mute2": "T21u",
       "pitch": "D4",
       "sample_rate": 44100,
-      "sha256": "9c59f40e08dcc9c00c595bb4ca0d865a9ff04fda615dfb8ffde41439c21de827",
+      "sha256": "97e6dea6e929d10368e6174d49220c0990841b591ffa08dcdbebdb8c3945a72f",
       "source": "orchideasol",
       "technique": "brassy"
     },
@@ -252,7 +252,7 @@
       "mute2": "N",
       "pitch": "D5",
       "sample_rate": 44100,
-      "sha256": "605bbebd22628103274e4a842877cd95936f7dbe812f263c539b0affbce97082",
+      "sha256": "d7567a16a6e48b4fdb4560c6dcfc5bccde447926b95e554063104dd79ebf72c8",
       "source": "orchideasol",
       "technique": "brassy"
     },
@@ -266,7 +266,7 @@
       "mute2": "N",
       "pitch": "E4",
       "sample_rate": 44100,
-      "sha256": "cf6d34cbaf8725a99acac9d2637e6cbf82a1b64243b202ad6510b484d1609ad7",
+      "sha256": "a3c3812cc4f3bccbbf9b72d37500b64c5f822749fd12875d2714e582315cd4b1",
       "source": "orchideasol",
       "technique": "brassy"
     },
@@ -280,7 +280,7 @@
       "mute2": "T26d",
       "pitch": "E5",
       "sample_rate": 44100,
-      "sha256": "37a2cf882b791cb6b88b279bc09ef5a9a092d37763fb0cb7937410a49bcd4e76",
+      "sha256": "7d7a454ed383bb3d3dd43306814f638504e221b961cda291c8187ee65a2c1a00",
       "source": "orchideasol",
       "technique": "brassy"
     },
@@ -294,7 +294,7 @@
       "mute2": "T28d",
       "pitch": "F#3",
       "sample_rate": 44100,
-      "sha256": "13a05991c70bf914c52c376db1742332e32d27c1992329a312b3a43a8846b63d",
+      "sha256": "9cbc9f7b6f7631472f3be3d23cf5f27a0dc468343938ea3d0231d8243915eb93",
       "source": "orchideasol",
       "technique": "brassy"
     },
@@ -308,7 +308,7 @@
       "mute2": "T14u",
       "pitch": "F#4",
       "sample_rate": 44100,
-      "sha256": "19716fffc804224f74a684451639604db09a655b75b66ec941ad01de79add2f5",
+      "sha256": "869bc58b74c4e3034cb67c2f0662d8b4a56b52ecd17b6167aa491f7a25fea749",
       "source": "orchideasol",
       "technique": "brassy"
     },
@@ -322,7 +322,7 @@
       "mute2": "T39d",
       "pitch": "F#5",
       "sample_rate": 44100,
-      "sha256": "a36783d3d914a78ebf622669e94c572c845b397d9bffa7e1df1e5f2963e0ac8f",
+      "sha256": "5120a658aef55663dbf023c5803758ffcc384e154409ec94f9a57e66c1d84c1f",
       "source": "orchideasol",
       "technique": "brassy"
     },
@@ -336,7 +336,7 @@
       "mute2": "R100u",
       "pitch": "F4",
       "sample_rate": 44100,
-      "sha256": "b666f8fe5527bb2d08d65ff0655fdef64e0904cd253b3dd507f2647b4181898d",
+      "sha256": "054fb26de9a53c37a3e6661eb377c913760f1ae7db720258eaac818372d61c91",
       "source": "orchideasol",
       "technique": "brassy"
     },
@@ -350,7 +350,7 @@
       "mute2": "T27d",
       "pitch": "F5",
       "sample_rate": 44100,
-      "sha256": "447330359f011f5b98fd5dcef2a96478b25c368689caae937c1f9607afc10295",
+      "sha256": "accec66ac6e79725c90c864210d3389aaf87e95b25fa40cff0f4cdf01c30d5f0",
       "source": "orchideasol",
       "technique": "brassy"
     },
@@ -364,7 +364,7 @@
       "mute2": "T21u",
       "pitch": "G#3",
       "sample_rate": 44100,
-      "sha256": "609d87e4401b6a00614e15a803b200af154bf018ec2bffff707e9060cb4d8872",
+      "sha256": "c0f41a5ae2776550c260c21338360ff77125623d1cc34cd78a067b4c505d6b6b",
       "source": "orchideasol",
       "technique": "brassy"
     },
@@ -378,7 +378,7 @@
       "mute2": "N",
       "pitch": "G#4",
       "sample_rate": 44100,
-      "sha256": "6de50608a8bcaed1bd68bd299405ce601cfc25ea3d843b04d770b3bd947566d2",
+      "sha256": "a23624fdfee7404ef8d0e55bef59aad2a56088794b3e5982e3217c1f9705537f",
       "source": "orchideasol",
       "technique": "brassy"
     },
@@ -392,7 +392,7 @@
       "mute2": "T34d",
       "pitch": "G#5",
       "sample_rate": 44100,
-      "sha256": "2e9f4464e5a75f81c2e631c63819a8e6cd877b20f43fc7dd2948a896318057e4",
+      "sha256": "73e71e5f726210651d66954f2e22c5773bddbf523257c3e97f40a2edf0382e9b",
       "source": "orchideasol",
       "technique": "brassy"
     },
@@ -406,7 +406,7 @@
       "mute2": "N",
       "pitch": "G3",
       "sample_rate": 44100,
-      "sha256": "20171e5640752872e02dd753df7e97af37e1a07e2edd885b2fbfcc9000f54cd8",
+      "sha256": "a88fdc45b072c45597eb6d59e12f73c0d4c1107ed082529a5c100375b9d1e103",
       "source": "orchideasol",
       "technique": "brassy"
     },
@@ -420,7 +420,7 @@
       "mute2": "T15d",
       "pitch": "G4",
       "sample_rate": 44100,
-      "sha256": "31ef4caae90decf4d32fedac54479f473b05f6cbfb3d06e5bce20fc396dd411c",
+      "sha256": "6738d1ee8b26ee9e6627d5d892b178d815502a57881159668d44a0bb2505e4d8",
       "source": "orchideasol",
       "technique": "brassy"
     },
@@ -434,7 +434,7 @@
       "mute2": "T36d",
       "pitch": "G5",
       "sample_rate": 44100,
-      "sha256": "2f057c081a74c8b780b436751f933d7b55138a8ec1ff692bfea1e67275bbaa21",
+      "sha256": "1f863e8388d994b2f9e6a507f731d89475d4b11b5f755d4bc6ef69b434bf6239",
       "source": "orchideasol",
       "technique": "brassy"
     },
@@ -448,7 +448,7 @@
       "mute2": "N",
       "pitch": "A#3",
       "sample_rate": 44100,
-      "sha256": "4624ef291b53b2953d6a7022530a5569bd61471b03d2ef699f38720aee919074",
+      "sha256": "513c3a5dd6d5e4db4065d354e99a345662b34ee5466db20f6c2361fb687cf731",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -462,7 +462,7 @@
       "mute2": "N",
       "pitch": "A#3",
       "sample_rate": 44100,
-      "sha256": "378c123eb74ed3290dd3835dd59842b28f2fd3016569b25d30e4ad9fa12f2ef0",
+      "sha256": "5147762521e2e36a809b71c97bbbb430761ddf09747b45884b09c3523495293e",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -476,7 +476,7 @@
       "mute2": "N",
       "pitch": "A#3",
       "sample_rate": 44100,
-      "sha256": "396f5e9448efece8b800f0b20c857ddd0aa4237a3c5fe37c28df3e6424e1acec",
+      "sha256": "c99c492828e9c4a2489df41be7703adeca806d3f5f067e254d3b8b7927c28af2",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -490,7 +490,7 @@
       "mute2": "N",
       "pitch": "A#4",
       "sample_rate": 44100,
-      "sha256": "677b331005ac24db1ff82e63feac237c4e0e27e4be728e2907f5cc40be407b08",
+      "sha256": "9be69b55a2b1f1e3e8d824450390d06b9c48c0e3c93f606a9efe9a58bdbd5c58",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -504,7 +504,7 @@
       "mute2": "N",
       "pitch": "A#4",
       "sample_rate": 44100,
-      "sha256": "15c6618f81f9b574470c44c053cc3450f35d9b7fbbf2b9656cf65986f834fa5d",
+      "sha256": "52af47858d5788d1c3c7d0a2980707c44d31282add76c862066fff5b894e14ed",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -518,7 +518,7 @@
       "mute2": "N",
       "pitch": "A#4",
       "sample_rate": 44100,
-      "sha256": "a668b9474aa91d88afc119efc8223a7ff1b47418ee342c1b073f3565493e812c",
+      "sha256": "a023f00e43cd25ff65453b241b7ff9907c3071e81a3b787bf0a25626b17ee053",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -532,7 +532,7 @@
       "mute2": "N",
       "pitch": "A#5",
       "sample_rate": 44100,
-      "sha256": "0b2822a7870dc21d1426a78c2f88b8fc893a99ce2b6ada26cddbe2611dab67a3",
+      "sha256": "a5296fd1d0757413a02adfa7c5f46515c356c75396b3c886552ec2f18a204e77",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -546,7 +546,7 @@
       "mute2": "N",
       "pitch": "A#5",
       "sample_rate": 44100,
-      "sha256": "a624e32a5756584c14eb57cc1afd7af41500f03bd5ac0bc55c9d1e69e2a8a2c8",
+      "sha256": "30b4dd117cc942d29343c362f94e4a6a00cf57a9a48a425dbe7caf600a6b49f7",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -560,7 +560,7 @@
       "mute2": "N",
       "pitch": "A3",
       "sample_rate": 44100,
-      "sha256": "a03cf64c4a327ac16b741d208edf0553be6f027216376aff50fff866d5a1f04b",
+      "sha256": "8bcadafe14395951c1bf477ae908ca45d566b6311744e9f75386e414a9c73c6d",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -574,7 +574,7 @@
       "mute2": "N",
       "pitch": "A3",
       "sample_rate": 44100,
-      "sha256": "216950921592f7f11640ffe88091386cd9ff75a2a6c23cbb0b92e0d468c095da",
+      "sha256": "24e6052715fcfe108d3709fc224ba4de0ea5793f0dd9b0a1bd52a8af560b428b",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -588,7 +588,7 @@
       "mute2": "N",
       "pitch": "A3",
       "sample_rate": 44100,
-      "sha256": "38eefa1ea5f6685a3ec26c762ea9d0a297a0b5094ef5b949a585a44f4875c0d3",
+      "sha256": "b99ede467ef2edfba1051533f56e4ee08c7d98c4edfc653b24fe812d76dbacb0",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -602,7 +602,7 @@
       "mute2": "N",
       "pitch": "A4",
       "sample_rate": 44100,
-      "sha256": "1d9f3bc82b8a903daa19cdc903b4b2d040164b135162229d4da6d7ff6e60e229",
+      "sha256": "2d032ae4023923fa2a1391910c28ec155781ee692af3533dec5fe9c3e31a013c",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -616,7 +616,7 @@
       "mute2": "N",
       "pitch": "A4",
       "sample_rate": 44100,
-      "sha256": "c5a6a1e35c0e74443d3c48deaca93eb4e1312c9ee4fb2a6269c43dc1f6e5e751",
+      "sha256": "80c6235e6bc703dccdeefbeb6d303dc8b5621bafe445f300093bd7c09ebeb800",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -630,7 +630,7 @@
       "mute2": "N",
       "pitch": "A4",
       "sample_rate": 44100,
-      "sha256": "d9095772324432177f695ef035d151947b74a6309772c22ec6fa4f8ab645531a",
+      "sha256": "999df4d126f285de44ab8ba8705fa4f3ebc91b7f68c80ab18d43999c29a4df83",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -644,7 +644,7 @@
       "mute2": "N",
       "pitch": "A5",
       "sample_rate": 44100,
-      "sha256": "bbbf03906a8006979e2f019e130578cc7d3a73b75b053ef4d97a11b03b215716",
+      "sha256": "3dcf7591c427e76e94f090000341abde5376d81e164e10136fc943ebf4270093",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -658,7 +658,7 @@
       "mute2": "N",
       "pitch": "A5",
       "sample_rate": 44100,
-      "sha256": "e7b67854aeb241394141f8b763e63092507e10c43390bfa7d0a2f5e870758047",
+      "sha256": "58f6bb2f311b051d9ae6906ec9fabe85fcae9143f150305dc6904e632f3e46b0",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -672,7 +672,7 @@
       "mute2": "N",
       "pitch": "A5",
       "sample_rate": 44100,
-      "sha256": "42f736cbc9c8cb1a9a9cb5453480cc3f53fd649b281a848275725891ecb5b27b",
+      "sha256": "4c6d0a4ea0a615a9cace65e08ca3b44577cc3710836ef04ef3584a2afbc026fe",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -686,7 +686,7 @@
       "mute2": "N",
       "pitch": "B3",
       "sample_rate": 44100,
-      "sha256": "1b258bbb0962e222ec8ea8946e6cdb50eac60d2d3dffca54f3e07d0d022faebe",
+      "sha256": "0e304b981da88fbea57a9c1af6963433f2beaf41f99a841bf5c6cf06494c36e8",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -700,7 +700,7 @@
       "mute2": "N",
       "pitch": "B3",
       "sample_rate": 44100,
-      "sha256": "f801a463ab672e78d0c22128af595850ab7067918e0c0ad81c498f471d8be3f2",
+      "sha256": "9875015f2c8c1ad732f5f97f558be27e6931bfd6d3202fd9e1b67b99971dd46d",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -714,7 +714,7 @@
       "mute2": "N",
       "pitch": "B3",
       "sample_rate": 44100,
-      "sha256": "0bbd8c108458efa662c5e969541c8a7d4dfc07674bccbcf8e45745abd3345a0d",
+      "sha256": "b16d966e48a9286adbf499c2859e102e53ddc947e83af755c0cbbf2a0753ac0a",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -728,7 +728,7 @@
       "mute2": "N",
       "pitch": "B4",
       "sample_rate": 44100,
-      "sha256": "fb5b343775fdba42e74746814c70648471919caed69eda169335e93eac72d03b",
+      "sha256": "17d21c2d718e3a124602d969b2ffe4f08ea3416bef794150040a8bc1388d4ccc",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -742,7 +742,7 @@
       "mute2": "N",
       "pitch": "B4",
       "sample_rate": 44100,
-      "sha256": "203a58077cbfdf781273de1a6034c0235f3f20ef302f0c98b578ad1a08e7a0d6",
+      "sha256": "63d9b15bb682c3ccf02d907bbca0a1984d5a35fcf1df3bc98ebcecb8beb027a6",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -756,7 +756,7 @@
       "mute2": "N",
       "pitch": "B4",
       "sample_rate": 44100,
-      "sha256": "cd500346ed121125211d94ae59d80aa74a5750cc9a7e69ce0e395fc727a9583b",
+      "sha256": "b1537f8342a415237ef58b052fa588fa5f75ccc41a6a123de6a367bdd4b3b4aa",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -770,7 +770,7 @@
       "mute2": "N",
       "pitch": "B5",
       "sample_rate": 44100,
-      "sha256": "cb1a9309c2c36eaab7d0a9314ef71e2f6a4f845c26c407277a9a99894005f200",
+      "sha256": "8f641fc55480067263f37ebceaee7fc67bdacd6f1605d688aeea1303079e7870",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -784,7 +784,7 @@
       "mute2": "N",
       "pitch": "B5",
       "sample_rate": 44100,
-      "sha256": "3dd173c3c9fdb1f9f7f41cc01a092ec830ad6f5c920c2d707ace4aacb5124ec9",
+      "sha256": "117dc21c94bfb598b0ae66fcacb91154f5c30176cc170e1114cbb050bf6f85e3",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -798,7 +798,7 @@
       "mute2": "R100d",
       "pitch": "C#4",
       "sample_rate": 44100,
-      "sha256": "1fa5a99843045db1696d0d95673a84ef6b857d69bdcffa41864b857a53e30126",
+      "sha256": "75f90ab894ed5ecc4551cd50d0cdcda31ad0225ea1f820d476d978066ace8eab",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -812,7 +812,7 @@
       "mute2": "N",
       "pitch": "C#4",
       "sample_rate": 44100,
-      "sha256": "de7cf5c934edc78a49b97639093164708391adbcfa3169790451ddddab20b9cb",
+      "sha256": "d780ffbbfbed99b98b58c4d6ef45d350825b36794384e554f5e0a7813f98277b",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -826,7 +826,7 @@
       "mute2": "N",
       "pitch": "C#4",
       "sample_rate": 44100,
-      "sha256": "a893c9c25badc7e3e2f654c32be75a8a31eacefb6ae869db9353d4753fed91ad",
+      "sha256": "3ab3ffc14d790cf385fcf7705dc6f483f9c826ff5620350c08c5b39de005dbd0",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -840,7 +840,7 @@
       "mute2": "N",
       "pitch": "C#5",
       "sample_rate": 44100,
-      "sha256": "1282e12fedaebb602a5dd8b5964488f869c75eb52003e37d92f7d078d7eea59b",
+      "sha256": "bc138d360f90aaad6bf879c2680f79746bc5c4c56e1619087ee1e31db9b1ab8e",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -854,7 +854,7 @@
       "mute2": "N",
       "pitch": "C#5",
       "sample_rate": 44100,
-      "sha256": "794416941dac1a2a3085c564dfee37b435a21381b90020dd9170eb8cb3fb1e19",
+      "sha256": "3c1da495e924ee8decc953e230c3c173edcbc2e44360fcbe5df71275fc2c2fcd",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -868,7 +868,7 @@
       "mute2": "N",
       "pitch": "C#5",
       "sample_rate": 44100,
-      "sha256": "07bba36e09b8b0ebdc2a15258ac1233b7c7863ff8992bc1d796b92144bc602c6",
+      "sha256": "7a3f9f16c8e8595ac952a2a82975e444223e359bf5a39429f2221f6da78ebadd",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -882,7 +882,7 @@
       "mute2": "R100u",
       "pitch": "C4",
       "sample_rate": 44100,
-      "sha256": "3ff538b13c364fc0b73200c3f91cf585c8462adca8cee0c64e4ba707fd9d73e6",
+      "sha256": "6a91020f6b0f8a25a8283e7adaf9d458af46f6c770c29d28cc2271bf565bb6e7",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -896,7 +896,7 @@
       "mute2": "N",
       "pitch": "C4",
       "sample_rate": 44100,
-      "sha256": "fe51e83a50c73e4510de7355bb000f4bcc099bba7fbe20fb43992aa14f632e5f",
+      "sha256": "3601846dc33ffb08814686a63ee1d86e2ec4821de227a18764e6279864caab9d",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -910,7 +910,7 @@
       "mute2": "N",
       "pitch": "C4",
       "sample_rate": 44100,
-      "sha256": "3226b1024a2a99bcf88f4efbad126da2b26b558818ce73ec4e043c4ebf9a0fad",
+      "sha256": "4103551115be4bfe1a2092c27b652bedf5ffb6275a4613e0f2732beab7da9270",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -924,7 +924,7 @@
       "mute2": "N",
       "pitch": "C5",
       "sample_rate": 44100,
-      "sha256": "1cd14f8b3f610cf3964a3b088e82f27553d2c63618e2f9bd4a1f9a76b9cd2eed",
+      "sha256": "9b1c77d35da2819809853ccd6b7466e801d60f3ea543a6d13f6155864abcefcb",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -938,7 +938,7 @@
       "mute2": "N",
       "pitch": "C5",
       "sample_rate": 44100,
-      "sha256": "0f14f63f6de63f92abf8da2958e2e4cf68ec45fcd2fe8f03a3d07c3549ea8200",
+      "sha256": "0cdf5990e4568ff007ac5d1c8d4837e8a5053b31bcbbc75e7f6a2f6e4f16fe4e",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -952,7 +952,7 @@
       "mute2": "R100u",
       "pitch": "C5",
       "sample_rate": 44100,
-      "sha256": "d59045e5d7e1805c79fcf5b6d399048be39a20dd9858a9ada046690e966e181e",
+      "sha256": "5e64b4a6a7b0da8c8e1fae48580fc11342e11b80b68a0a4c4273f9d09c584530",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -966,7 +966,7 @@
       "mute2": "N",
       "pitch": "C6",
       "sample_rate": 44100,
-      "sha256": "2588accdd19600e1c6fef5087a5869ca9d3a134ad5fcb79fd961dbff6599dcc1",
+      "sha256": "c2767370c90e0bcbeed0843f6894e1f854f3abdd980ba01ce7d45a7967f842c8",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -980,7 +980,7 @@
       "mute2": "N",
       "pitch": "C6",
       "sample_rate": 44100,
-      "sha256": "91de2175ed990fdae9d0e687f7e3de19a7514b42bed6ff2a6424da4914d0db48",
+      "sha256": "26d0c86c11a70e34efc972058c19a1c3f8fb90822fc8a430e2366a7a9d7c19e4",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -994,7 +994,7 @@
       "mute2": "N",
       "pitch": "D#4",
       "sample_rate": 44100,
-      "sha256": "902ebc91921d2b022aa1eae22853e4d8281d9afa73aeade617e05d0584924a3c",
+      "sha256": "2c42eed1cddabeb8af01f45783bebd75c7f57aec190625ec50b18bf4507ae57c",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -1008,7 +1008,7 @@
       "mute2": "N",
       "pitch": "D#4",
       "sample_rate": 44100,
-      "sha256": "87c1a7c494292a21b7c792a8fe7f9da260d0ca777e6e1363ba238bbdbb9e1d91",
+      "sha256": "66ba2fdbefea2207dad64bbd10d5cf0e083b2126b30ae022fec9395d2e9e52a0",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -1022,7 +1022,7 @@
       "mute2": "N",
       "pitch": "D#4",
       "sample_rate": 44100,
-      "sha256": "3c39e1aabaa220dc8eef62153e9d401e43d01560190cfd0c28f53663e16f9ee0",
+      "sha256": "1cd82ee05b62bedf30343613d27b33c5b5b904c73130643c982822215fffbe0b",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -1036,7 +1036,7 @@
       "mute2": "N",
       "pitch": "D#5",
       "sample_rate": 44100,
-      "sha256": "531feefa2c95aea5adb936c758e4cdda1fbd779730dc2ad9f924056468bfde26",
+      "sha256": "714781f0f298f568e2fc155f59c83b7054a6324227e21c8b11a5f80114b9a29f",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -1050,7 +1050,7 @@
       "mute2": "N",
       "pitch": "D#5",
       "sample_rate": 44100,
-      "sha256": "79d37950b2e237c64481111c6d4e826f1c8aa02e9cd0f1c6b9cf7623f520af40",
+      "sha256": "91354986e1bf1822faa4d3b9ba7742e78cf1979910aa21086850b08ea7b518a2",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -1064,7 +1064,7 @@
       "mute2": "N",
       "pitch": "D#5",
       "sample_rate": 44100,
-      "sha256": "406af165b20846396603b4d674e1f0e557f01bd1cf1bd157ef469cdf889d719d",
+      "sha256": "870202c845f153b384de1a612f577b965f0ee8df1c61a6f5981bd3de63a05f1a",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -1078,7 +1078,7 @@
       "mute2": "N",
       "pitch": "D4",
       "sample_rate": 44100,
-      "sha256": "9215b39696df5b4ecf3333c21caa3bf80e0707bec90a57e647bf2c9cf8afe34d",
+      "sha256": "8d95f33718e3e0a87b105d649ebcb2a5c65d2424b434386a7e5024ecbd6e48c1",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -1092,7 +1092,7 @@
       "mute2": "N",
       "pitch": "D4",
       "sample_rate": 44100,
-      "sha256": "21efd0557629629398d03de7ca32c7fc93e1b6bc5c290f1ae1ef804d22d6ab5a",
+      "sha256": "14af258777234f94bbac4a536a720d719edb1c9e7332b3d3c306c2b533aaccb8",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -1106,7 +1106,7 @@
       "mute2": "N",
       "pitch": "D4",
       "sample_rate": 44100,
-      "sha256": "0de9e90d3b336729197e7850b417e09dbc5a3b2e3fdded9bda0b706a4bf77ae8",
+      "sha256": "2d50c364f590b45fb4ac80b2c2423ffc2478b8008119e261144c41ec746e604a",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -1120,7 +1120,7 @@
       "mute2": "N",
       "pitch": "D5",
       "sample_rate": 44100,
-      "sha256": "ce962b938554e873db6613ed65f2cfdc4f21f2077a4d0746b645ba4c759038a2",
+      "sha256": "8c40c77a4faf7b596d96d4cc5d6f55af6f696c3298d37417a1084627923c5fbc",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -1134,7 +1134,7 @@
       "mute2": "N",
       "pitch": "D5",
       "sample_rate": 44100,
-      "sha256": "762dca321edfc041a2c898e15cb0fac19dd16b7c7173eedb299f483e6eeea721",
+      "sha256": "0f3b5eb71c5b36efd1a72bcabe5b04394304ba3caafdc1bfb0aa22ee21794f47",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -1148,7 +1148,7 @@
       "mute2": "N",
       "pitch": "D5",
       "sample_rate": 44100,
-      "sha256": "45fc8fdd4d75fbe437099aa8e61c696ef06d5c3c00d0c0870c539a360edccef9",
+      "sha256": "1d1b3dd49542f2726b019c93f08b7efd5b59572944c3a066f169fa7d5bf1f044",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -1162,7 +1162,7 @@
       "mute2": "N",
       "pitch": "E4",
       "sample_rate": 44100,
-      "sha256": "dd21807f02fff863ea49c4f8ef81c994ec1e7b681a049cd93db3c242a19f4c9c",
+      "sha256": "70e56a0d574eadb18d1d38f67ced7b5cfa02e92711a72ec9b8e5fab53e938623",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -1176,7 +1176,7 @@
       "mute2": "N",
       "pitch": "E4",
       "sample_rate": 44100,
-      "sha256": "4324bccc672ade84b3e844710fe15632d74d9680f16af8e4c48583d95828b6aa",
+      "sha256": "fdd834a6a6c7eae54bfabbd2e6f1be2c168ab3bae0ced3a26301f93d6041891b",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -1190,7 +1190,7 @@
       "mute2": "N",
       "pitch": "E4",
       "sample_rate": 44100,
-      "sha256": "017858de5fa2c4affa9a92df1ee2122c6e79d5456883e85c1ebf2cee3abeef11",
+      "sha256": "0afc653d024bd6f387ecdaff5ff10267c99672c4924f3bf8bbebab0dc65d3c05",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -1204,7 +1204,7 @@
       "mute2": "N",
       "pitch": "E5",
       "sample_rate": 44100,
-      "sha256": "71dd31116f757c603147df1a2daea84fc96cfbd2af7657cda4d14e26a14055c7",
+      "sha256": "15c70d08789cb65696fb183cb5742327c24b98349cc0835f8f572c8067be5e48",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -1218,7 +1218,7 @@
       "mute2": "N",
       "pitch": "E5",
       "sample_rate": 44100,
-      "sha256": "daca743347e82eacf40a900d143d39fabce4bc463c3d2635761125f89e2a6ece",
+      "sha256": "eb3c9c12a84e71c1763c0f8c8f2c191251215903c85f94b9efbb6022967169e8",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -1232,7 +1232,7 @@
       "mute2": "N",
       "pitch": "E5",
       "sample_rate": 44100,
-      "sha256": "0a9435fb639d8d675040ea81e01f43dff56b5e283f933c4e74670b512171fbeb",
+      "sha256": "b0379d70157fa938f580b5208309dfcbd2a0998adaeacf6f022ddce9d7d34e0a",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -1246,7 +1246,7 @@
       "mute2": "N",
       "pitch": "F#3",
       "sample_rate": 44100,
-      "sha256": "c177b18899609ebc57c62158e23c006af01b0d734d39798ff4b0ed0201775fa5",
+      "sha256": "4c848aeb054beeb6e1da31174b73779a0cd7e8875219a02e9cab99932f536141",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -1260,7 +1260,7 @@
       "mute2": "N",
       "pitch": "F#3",
       "sample_rate": 44100,
-      "sha256": "529d1f7fabada6173153c5b32f30eceba9271363a92dd4d01140759d6c8b5073",
+      "sha256": "5b7bd09008096f3acaa1aa038b19e0d6c3454982e7100b69f4b2b12f4c19e1a0",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -1274,7 +1274,7 @@
       "mute2": "N",
       "pitch": "F#3",
       "sample_rate": 44100,
-      "sha256": "307ede9fab6057d4fe32c0e0a9069d6ed69491e6f76b6022a4b86be75f5d8d61",
+      "sha256": "c92775aed97a7af539a5d5d2eb6c5fb9f6c03c94b0a4d77f1b9c2dfa544fe2bf",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -1288,7 +1288,7 @@
       "mute2": "N",
       "pitch": "F#4",
       "sample_rate": 44100,
-      "sha256": "fc0a2f9fce9f80faa2091693b1698e07187c89b973b987be72c5dd3d64dad8c1",
+      "sha256": "2c2a963e394bd80bc041531967a156c9c53cf325ae0b5e0e703fea1ed27fa0b4",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -1302,7 +1302,7 @@
       "mute2": "N",
       "pitch": "F#4",
       "sample_rate": 44100,
-      "sha256": "76082f76171788fabf9b6ddd44e94c3abee40ea19a6cbc072fa4ac67b2fc38f2",
+      "sha256": "4fee34c02010ea32382bdb96887343f86928ea9a66ea683e4fd731ac835fca18",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -1316,7 +1316,7 @@
       "mute2": "N",
       "pitch": "F#4",
       "sample_rate": 44100,
-      "sha256": "65abc105e2201da1b9e6cf3aa74242404986c8a628167ff8c0898688642a80e7",
+      "sha256": "2eb55debc9737792aa880d1f0f3944710d2f6f443b844aef8b442f8d6651ce65",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -1330,7 +1330,7 @@
       "mute2": "N",
       "pitch": "F#5",
       "sample_rate": 44100,
-      "sha256": "c30900aabcbe6ff65afa1c3582d2bcdc8485f2f7967cac7fdba75477e068d761",
+      "sha256": "4332f0d1836eb55cfe41ac0bf76b897754b75e503f37e8d7c94ec2d7208e27cb",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -1344,7 +1344,7 @@
       "mute2": "N",
       "pitch": "F#5",
       "sample_rate": 44100,
-      "sha256": "948ae140fcb7d6e1b60adadd96c5f21e6c096b6289b2c97f0d229055995cdf81",
+      "sha256": "74621b89b6234f064c5a66d87af840a2b9b1025aca36c7b8554fea1ff9af6f91",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -1358,7 +1358,7 @@
       "mute2": "N",
       "pitch": "F#5",
       "sample_rate": 44100,
-      "sha256": "09a75ec6358f59a2fc125745aa9ec66ed26015e7eddc6dfad562e81a73f80ab1",
+      "sha256": "ffaf368d726e4a1685000485c8c91ca4bf990943bfc5f302f90863eeefbcc69b",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -1372,7 +1372,7 @@
       "mute2": "R100u",
       "pitch": "F4",
       "sample_rate": 44100,
-      "sha256": "8c7d99c114bb776c9af2d73e5f4117367dd27f449ac33d204681d382932a4834",
+      "sha256": "2f970f34fc5ca42ae551d12c96b6c77578f86adb18e930c13f4ec42865e4cbb3",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -1386,7 +1386,7 @@
       "mute2": "N",
       "pitch": "F4",
       "sample_rate": 44100,
-      "sha256": "45b30893258e1a3e378c7cce1f2dca09f9c652b6172fd65049cbec0550a860ef",
+      "sha256": "6505c028ab982a8a85e20c1e09bd0ae02fef2cddf03f5a7e674acb12a2299fae",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -1400,7 +1400,7 @@
       "mute2": "N",
       "pitch": "F4",
       "sample_rate": 44100,
-      "sha256": "c4c09b60eae94721a12fcc9e7932e3c339dae57ef70a4637223fa81523f0ac10",
+      "sha256": "51b9d5297d76cc80362470271d531ab5737a2f148d31ab076be38940889dc626",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -1414,7 +1414,7 @@
       "mute2": "N",
       "pitch": "F5",
       "sample_rate": 44100,
-      "sha256": "cc4df50736201d7a06217af87054a7f2da93a0a908027e8bb96f96411dba2f58",
+      "sha256": "63569de2ec2c075896981e0508401cdbb9a6c383bb28f8854a1517df9b8ea9d0",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -1428,7 +1428,7 @@
       "mute2": "N",
       "pitch": "F5",
       "sample_rate": 44100,
-      "sha256": "504b015224580b2496560318264f16ec1af1b9cdece3852b222e44d84649d2e7",
+      "sha256": "175c3d47bd350080d0023773f7f2fdcd3b0ee9e28e76370a79db9ea520d2c473",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -1442,7 +1442,7 @@
       "mute2": "N",
       "pitch": "F5",
       "sample_rate": 44100,
-      "sha256": "06e79896af913f5095969298b2eb253b857f5f50f5132107a581e1ab0d0b2c6c",
+      "sha256": "a6018f3ed392330b838551705c86df93024953d81f2a3f8b0797d6527b2e4ac8",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -1456,7 +1456,7 @@
       "mute2": "N",
       "pitch": "G#3",
       "sample_rate": 44100,
-      "sha256": "f2d1d04432f1ff61179a748a51972500d6566d3859f5d864afa26effc783b2b0",
+      "sha256": "30ded41471c382e33a4900e1bdc0efbf0853c329aaf7fa8f976c55e56e2fcc7d",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -1470,7 +1470,7 @@
       "mute2": "N",
       "pitch": "G#3",
       "sample_rate": 44100,
-      "sha256": "5f94e2f5d30013a8d0f7c2f1ff17a631812228b143b9495c7a19abc5d599040b",
+      "sha256": "5b0773253ff5c4ea95386c2e2ff1a2a3183d5b8df146019c785e08610e138cbd",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -1484,7 +1484,7 @@
       "mute2": "N",
       "pitch": "G#3",
       "sample_rate": 44100,
-      "sha256": "e1f2882110429882078d93ca60c0f06804a598fc7bd089def572a13848432a96",
+      "sha256": "485e33537a72649cbb584e28811ccc67407836bd77981ad96cb5eb41ad48ba5f",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -1498,7 +1498,7 @@
       "mute2": "N",
       "pitch": "G#4",
       "sample_rate": 44100,
-      "sha256": "161a22525229de94321c3132528dfab3a70ebc6d58a09ba2f3cc73ab2a6ca5f3",
+      "sha256": "85ba6c32da5a336504f26bc5504d8296cdfcf91e81070c983a18c4ec302bb5a8",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -1512,7 +1512,7 @@
       "mute2": "N",
       "pitch": "G#4",
       "sample_rate": 44100,
-      "sha256": "386c55213cdb75cdc40c9127859f0e49c958da0bbd4a9dc9a338128d0dad53c0",
+      "sha256": "8f7959d1e989b8da16628dcb224732931771572c043dbf9ef8b05ffa2ccb16e3",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -1526,7 +1526,7 @@
       "mute2": "N",
       "pitch": "G#4",
       "sample_rate": 44100,
-      "sha256": "b5ab5058d07f29249fd32610b82f796efb52c8298be03831c815cf54abac1330",
+      "sha256": "da8463158cada7f22b55c28233ff02dfd6206880fb1ffd3215a9447d35111246",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -1540,7 +1540,7 @@
       "mute2": "N",
       "pitch": "G#5",
       "sample_rate": 44100,
-      "sha256": "b0559b1482b7141cbca06fe002afe168e1fbb55bf70a127d8c7769ea07259433",
+      "sha256": "8c5f15f05f497de03846892b6c4bfa21b86179dcf1f1d125eca4d2a8cdd13858",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -1554,7 +1554,7 @@
       "mute2": "N",
       "pitch": "G#5",
       "sample_rate": 44100,
-      "sha256": "580c935a78847fe137c09ecb2e93da5d4628583eb983fbb5264af94d628da0aa",
+      "sha256": "544572e44ca20188008e3c3bf546d3e238e4f009b72978a62ff111966641f5b1",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -1568,7 +1568,7 @@
       "mute2": "R100d",
       "pitch": "G#5",
       "sample_rate": 44100,
-      "sha256": "3f33c5c29ba69a442ce5d24e115272529277a56eaf3bca6e12e770276a4700fa",
+      "sha256": "582be39b40f38d501a569f3de252b085868b32743883c2f4fc292eb584d92193",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -1582,7 +1582,7 @@
       "mute2": "R100u",
       "pitch": "G3",
       "sample_rate": 44100,
-      "sha256": "2b81cbf52bf40b0b449492150514978ce5bbdbb187a6239587f662e7daa64a71",
+      "sha256": "3bac3946b4e9daa4e9de27d7b60756a0a0d7a830ec60d3baf74384a490ef8086",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -1596,7 +1596,7 @@
       "mute2": "N",
       "pitch": "G3",
       "sample_rate": 44100,
-      "sha256": "cb530df8a93bf7f0c2727de80c053e6f3b5b9aeac5ceec9d8b45f24799ed65d8",
+      "sha256": "dce78e46821aba6b7419c995d8104e110430fb40b4d3c753c5c2a7d1d8bd7fc9",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -1610,7 +1610,7 @@
       "mute2": "N",
       "pitch": "G3",
       "sample_rate": 44100,
-      "sha256": "b9b0b5b8290cd73e86cfc530995e63367b03daa13c69af57d47638821dc41291",
+      "sha256": "a4d933142d5b6b9cc61c973990f447f4c049b1b69caf9afaae50bfc5ad0fa1a5",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -1624,7 +1624,7 @@
       "mute2": "R100u",
       "pitch": "G4",
       "sample_rate": 44100,
-      "sha256": "4874b30e6fc45bd8910fcb62a97700672a2957f300012ca7fe11dcf3852ff90c",
+      "sha256": "6f013a139b1217455d9fb8c3a28759d674cc1428d2ae78d2f678b9aa75c613d7",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -1638,7 +1638,7 @@
       "mute2": "N",
       "pitch": "G4",
       "sample_rate": 44100,
-      "sha256": "bca0cfd807983bf9e77e8cb2b881e68fd28d3141d08d28ca9e01c99564a9f513",
+      "sha256": "297ee7aee984da586ee7f71b3a073aa8dc2d744019d850a4cd80328fffdc40aa",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -1652,7 +1652,7 @@
       "mute2": "N",
       "pitch": "G4",
       "sample_rate": 44100,
-      "sha256": "8ce9ecbd06717339c433673034986fb1eb9c354624f2a885aa1419aa7396368b",
+      "sha256": "b269459a3a7f599733016e7bf9be36b9e513841ce9ecd21f1f227e8695c89c80",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -1666,7 +1666,7 @@
       "mute2": "N",
       "pitch": "G5",
       "sample_rate": 44100,
-      "sha256": "3cc3d7ba539ebfedb063b544f3165ae18b8186f5985a0bfbe88cf456ac777b2d",
+      "sha256": "96bfba03332d0b61833ae9cefa04685695386087555257e114505f587645cbf1",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -1680,7 +1680,7 @@
       "mute2": "N",
       "pitch": "G5",
       "sample_rate": 44100,
-      "sha256": "2f2ff1d3cec3d34587e8fcaf94fd19c7bf3051b09ab9e81f15268d68cbad1059",
+      "sha256": "eb1eee628f9e63318d2105587fd9cddbb610e0cdb4fa42094d570ae2799bef6a",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -1694,7 +1694,7 @@
       "mute2": "N",
       "pitch": "G5",
       "sample_rate": 44100,
-      "sha256": "4d963be9abc2c2a3b605125c5841b081cd93d3d716e50f6f4a22b777f2497c0d",
+      "sha256": "003336df93f5cee5e069ddfc5bfe80bae0cd101417c3c35d560c3a604c522faa",
       "source": "orchideasol",
       "technique": "flatt"
     },
@@ -1708,7 +1708,7 @@
       "mute2": "T23u_R100u",
       "pitch": "A#3",
       "sample_rate": 44100,
-      "sha256": "1336c6893563ac635d9b1c5b434e85ecf0e7739911479b257eb2ce4e120a3889",
+      "sha256": "4a9f5027be34c751b6df39a6f57a922b460bcabe27ba6ac8cb6e221979759ad1",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -1722,7 +1722,7 @@
       "mute2": "N",
       "pitch": "A#3",
       "sample_rate": 44100,
-      "sha256": "1f4c874b4e3c6b3fe8c25732ad83d3011bc722ea2d0e0da8e97a9bf45cfa5261",
+      "sha256": "cbaba7cd53af5743f02ab61d9380821fda1527b657ca561c7f344109f15f6464",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -1736,7 +1736,7 @@
       "mute2": "N",
       "pitch": "A#3",
       "sample_rate": 44100,
-      "sha256": "bda0483d6fb4493662896e7b60b6007ec65f9745bf2fba993493cb8a0e23c3f7",
+      "sha256": "c1bda5e6bb91c88ce8fbe2b6ca7e6d5c9b2d0c16163413716e18a253474a0d21",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -1750,7 +1750,7 @@
       "mute2": "N",
       "pitch": "A#4",
       "sample_rate": 44100,
-      "sha256": "24bb7cd99cd9802719861fe7e3904acefe3c3f5bafccbf012ac9e7ebbb7f7b86",
+      "sha256": "83502a5ef9c00e15c172a80276d161a28698da333d7a39720f9901d9083c4273",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -1764,7 +1764,7 @@
       "mute2": "N",
       "pitch": "A#4",
       "sample_rate": 44100,
-      "sha256": "38cf4fdf11f2bca42f9c87682b569c0f9b8a531740213ee7f56fcde1e35df44a",
+      "sha256": "a0180205d6ddde28854dfbec6e2993c463a96fb2d36d554149d4d4c72b620aff",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -1778,7 +1778,7 @@
       "mute2": "N",
       "pitch": "A#4",
       "sample_rate": 44100,
-      "sha256": "60eab3e383754bab619273113ec1a189bbf7ac6ccfe8f02d7b2a5351b4850fd5",
+      "sha256": "7bc201577a5445a3e9b0ac7dba9f6323bbe1ac309d537f878f01c92a7cf70d85",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -1792,7 +1792,7 @@
       "mute2": "N",
       "pitch": "A#5",
       "sample_rate": 44100,
-      "sha256": "7ee980984fd967f3aa9167a383998f9b968951536a3104239c3dc5c643a6dfd8",
+      "sha256": "5d44e9d9ca5766f2fe214aea5645da48170d1c280aca1fb76b8add0bc0953b14",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -1806,7 +1806,7 @@
       "mute2": "N",
       "pitch": "A#5",
       "sample_rate": 44100,
-      "sha256": "8d80daae7109045d70d62df86da2eec382f9b449e6419d040ae22e4a7a72e7e2",
+      "sha256": "971216b676e68dc5ae4bf2222e14a5f7b86f899a5912c62dbdd581c83a1b71c1",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -1820,7 +1820,7 @@
       "mute2": "N",
       "pitch": "A#5",
       "sample_rate": 44100,
-      "sha256": "97c2eadbcf757065120c8da4bf179a30154f203197ecf16f17207ac16f1ed70a",
+      "sha256": "302353acad97491b3beac4b515885ee009fa52c382a9fa1a9556c4d9377cf18b",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -1834,7 +1834,7 @@
       "mute2": "T23u",
       "pitch": "A3",
       "sample_rate": 44100,
-      "sha256": "084b1d22746466b37e38f6d2a7b3adfabd63280b79920e977146b0b8ec424c40",
+      "sha256": "ecd2515a437c3939be6ce9ae3ccf63d945dafd906eeaa1141dd2b976c936361f",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -1848,7 +1848,7 @@
       "mute2": "N",
       "pitch": "A3",
       "sample_rate": 44100,
-      "sha256": "5abaa0670eb67540c501c3aaf1f0114b1c9b95265493d393f8632436a2019d72",
+      "sha256": "aea9381982d0bc380400b079d330fc92ee1412442970c6cb5448bb1100e56bb1",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -1862,7 +1862,7 @@
       "mute2": "T10d",
       "pitch": "A3",
       "sample_rate": 44100,
-      "sha256": "d601518e53cf2cf9bd0c961e244811ec84f48c71ccfba87f59e0a8d74a851c14",
+      "sha256": "9d02fdb742a9f2043501f95607fc2001bf00e3c4eb1379f6d84d70cdde50eeb0",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -1876,7 +1876,7 @@
       "mute2": "T22u",
       "pitch": "A4",
       "sample_rate": 44100,
-      "sha256": "5cdf64f6e0fefa70306129e3206f5cf59f4a64a05fd5dd322b2d5a2a9cf0cbd8",
+      "sha256": "7c2a8523ce45fd712d48ba015f4dfe4b487bcccbd8274633b58a9fdc5ff6e9fe",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -1890,7 +1890,7 @@
       "mute2": "T19u",
       "pitch": "A4",
       "sample_rate": 44100,
-      "sha256": "6cfb7b7d73a5c428d647a8d8f674d1128d8eafa4db0458f1d9c10800bd638f19",
+      "sha256": "33190a8296dee375a931c06a8cd0e7943f773e0943a9e0418ce67d80aec08d58",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -1904,7 +1904,7 @@
       "mute2": "N",
       "pitch": "A4",
       "sample_rate": 44100,
-      "sha256": "ec4c81e3dcdab7b30a00f4b519d76c381cf9b425b6a426da845f39ce03b0041c",
+      "sha256": "5c33dca583122321bc838e7cb7d93f2e6f626cf22b98f6c4870f1e28b2cd1589",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -1918,7 +1918,7 @@
       "mute2": "T13u",
       "pitch": "A5",
       "sample_rate": 44100,
-      "sha256": "eaa586dd3a2d646581f3e85bb59ab9a4e03828699959f05c0963f45ca5711f71",
+      "sha256": "74e64d348da0700a6dbea5f10ba53190a986d0f80e3189973aea585e96a4affa",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -1932,7 +1932,7 @@
       "mute2": "N",
       "pitch": "A5",
       "sample_rate": 44100,
-      "sha256": "09dfba3ec604360c0bcf31c6f36fcc328f49585a617603cf4a3f6a41dd0c731d",
+      "sha256": "ee7b35be8b70a9244b738b806b7e9f00c7df4277513303e2023c738478dce200",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -1946,7 +1946,7 @@
       "mute2": "T26d",
       "pitch": "A5",
       "sample_rate": 44100,
-      "sha256": "1a994a5ce9c02f9b11ce21a19c2d7420433d5f26f1c00f51de198dc6c1084a9a",
+      "sha256": "2c01e834cb9bc4d6f456658c462dba509112c399f732900e31c199bad0af1082",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -1960,7 +1960,7 @@
       "mute2": "R100d",
       "pitch": "B3",
       "sample_rate": 44100,
-      "sha256": "bf3821fdf5e88bde9d33a2fa9b4eb758d258857ceb97f04c8000007eb446f040",
+      "sha256": "a1b98633f8aeb0b8948c2c2abf9822ff90d2dac0f4ad8070a59f82bf4fc253b9",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -1974,7 +1974,7 @@
       "mute2": "N",
       "pitch": "B3",
       "sample_rate": 44100,
-      "sha256": "10e9e0d8b6247da7991e6ac0db67412996a874c3ba3508fcf88cfb989c011f3a",
+      "sha256": "934935bff20d6cc0e30b9aa938819f9df406b0f5d2d92994a7c8a583a03c00e8",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -1988,7 +1988,7 @@
       "mute2": "N",
       "pitch": "B3",
       "sample_rate": 44100,
-      "sha256": "d9a5e8ba332748281fba4490487929e1f71d9ca1411bab5d760047415b2d2563",
+      "sha256": "efb84a157a1f1cd80ccfdb0cb77bcef5bde6e47d4f814a5c248e86aa1a909829",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2002,7 +2002,7 @@
       "mute2": "N",
       "pitch": "B4",
       "sample_rate": 44100,
-      "sha256": "0cd1c59ca0db38166fc027d95f9c9edec1b1f3019f5676abc4f10f4393583ea6",
+      "sha256": "aa6729fba39b9692e7c7909dfd8e75a90a725b487a0b96c9968249cae3702d43",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2016,7 +2016,7 @@
       "mute2": "N",
       "pitch": "B4",
       "sample_rate": 44100,
-      "sha256": "507252d29e8c0c2fa777a8cd66062252dc10c60df523070b44cfe379639304b5",
+      "sha256": "3420e467a4a9d55f2865ae8609a5c67703ec378011b50a75f1b41d9e2d1bcbc2",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2030,7 +2030,7 @@
       "mute2": "N",
       "pitch": "B4",
       "sample_rate": 44100,
-      "sha256": "dc5c0b883996604763724ab636e1606ae67bd7dee7b79fe4c15bf15754cfe42a",
+      "sha256": "bb566e1dc8a2a1a0b7aede242514f08cd9a946fd7f9e885954ac995626d5d217",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2044,7 +2044,7 @@
       "mute2": "N",
       "pitch": "B5",
       "sample_rate": 44100,
-      "sha256": "5cdb5ae1e3d868548fa48597cbe6c40d49424977035a229bc6d56671399a277d",
+      "sha256": "58b27919b07d41d5c1d0c4af36c567020d3c3a77af4044929913e880bb94464d",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2058,7 +2058,7 @@
       "mute2": "T13u",
       "pitch": "B5",
       "sample_rate": 44100,
-      "sha256": "b53546e90145a16ad489a0e7e9c3caa9ef838b12d801535281d9d67cad7699a1",
+      "sha256": "59921379c2dc306247aa048cb9baf866e07b1dd8691be08e231f796bda631769",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2072,7 +2072,7 @@
       "mute2": "N",
       "pitch": "B5",
       "sample_rate": 44100,
-      "sha256": "03e68ad0d6d2e54389ba39319a8d191cfd40b7f6efa3cf491a332e7ac83abead",
+      "sha256": "fc1b6319bea1a74a9ddad034a68989db621132884695778f711b21b508d59f03",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2086,7 +2086,7 @@
       "mute2": "T39u",
       "pitch": "C#4",
       "sample_rate": 44100,
-      "sha256": "d1f119789e194452cbb61689e0d50e163c6e6498073a59f6981d3498fd8db386",
+      "sha256": "fd6164ff12e437a2503cbda3077a73c63042c8dab9a8fb4aa07de10dd91a5938",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2100,7 +2100,7 @@
       "mute2": "T17u",
       "pitch": "C#4",
       "sample_rate": 44100,
-      "sha256": "4e8ba121ac8fc2aaeeec6a8b55de865d8721baf228097c9102c1b6ac1d66d274",
+      "sha256": "42767be76f631c2e5511b5b1f4f950bf9d58a731c0c7f2cdeee203618980201d",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2114,7 +2114,7 @@
       "mute2": "T11u",
       "pitch": "C#4",
       "sample_rate": 44100,
-      "sha256": "5843c6e38c5775e98b0ec9dc079dae69efc5eb41a6a1613112cbb83f4d1d40d5",
+      "sha256": "31b7d08d534757bbee838cd6ef2839ec3e62ab49fa14c68bf58e50e4fd68990b",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2128,7 +2128,7 @@
       "mute2": "N",
       "pitch": "C#5",
       "sample_rate": 44100,
-      "sha256": "8891edef1ac6cf15bf76482e2ebd0430a7fbaad41f6de1b392a44b8ab768fe9b",
+      "sha256": "7d7bb0eab386e4ab7da1711b83bddeb06efc04b1ada64a183d0408560ce27748",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2142,7 +2142,7 @@
       "mute2": "T17u",
       "pitch": "C#5",
       "sample_rate": 44100,
-      "sha256": "f5ebdc27750514529ae10b39f8def8f3e1e186c69a9a3c162750f6dc6c574abb",
+      "sha256": "c6eedb316c78fde83430874684a2aad609b1a2418aeeddbdb1e4624d0df507c1",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2156,7 +2156,7 @@
       "mute2": "N",
       "pitch": "C#5",
       "sample_rate": 44100,
-      "sha256": "fc249a1ccff2619425299da484bf481ca74225c1c07d84a7880a4a71153e80ea",
+      "sha256": "8679bfa6744cbf95208608b426e44a6506d0258a47d1e3d41f047b65e55ae1cf",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2170,7 +2170,7 @@
       "mute2": "T10u",
       "pitch": "C#6",
       "sample_rate": 44100,
-      "sha256": "b75bc9544548c9266daf85f4a3e4b0532594c1b7d20f4c32d0fbb3cd9bb64b30",
+      "sha256": "a5777465efa35117f22b8f356c28b3a51f275c6a4239226ff54533aeda13a000",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2184,7 +2184,7 @@
       "mute2": "N",
       "pitch": "C#6",
       "sample_rate": 44100,
-      "sha256": "8222e12b2b04346386ed1f8a97a77341f769b13c1ffc9061eecc18b05693a006",
+      "sha256": "9b5367f95b7dedc3c852997ed682469cef8b9eef7fd96fecb8a220057ce0ce86",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2198,7 +2198,7 @@
       "mute2": "N",
       "pitch": "C4",
       "sample_rate": 44100,
-      "sha256": "b026d76ebca00efe54926e12ce8e0e1228579f6d42d547c2bd2c2b0c3b5ec509",
+      "sha256": "4f811a1fe51522e25c2264193452bf5a3e1a422ecc44ceabafbacf5c4efa48e6",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2212,7 +2212,7 @@
       "mute2": "N",
       "pitch": "C4",
       "sample_rate": 44100,
-      "sha256": "6f87d2cd62e234f9a42021b207b92b0c28d3dd3b93f591639cfa25e6df180844",
+      "sha256": "ac0ded6f267648e2dd089d91d30d371affb563786b6d38080ff378ea430395c0",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2226,7 +2226,7 @@
       "mute2": "T10d",
       "pitch": "C4",
       "sample_rate": 44100,
-      "sha256": "e68087d309981f2377add9927a1f9983035e7e0a399da30ef53671f4756000c8",
+      "sha256": "fea8fd543edd916dd75bb4e27c913a3c90cac10242c836ece4d9117a3ab0eec7",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2240,7 +2240,7 @@
       "mute2": "N",
       "pitch": "C5",
       "sample_rate": 44100,
-      "sha256": "25daaa6e53c427f726aa4bc7d7935b99fbbe8a21d5041278e0ef1f1333afb06b",
+      "sha256": "696538421ea988b0ff42bc8c40aa4d69ca542c6953b6f3d325221224fa57d09b",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2254,7 +2254,7 @@
       "mute2": "N",
       "pitch": "C5",
       "sample_rate": 44100,
-      "sha256": "71a0993ef56506fe8f72316c96939fbda33ea03dd3b8ab6925d9f64ffb40cca9",
+      "sha256": "9a2de0f28dd3c2057b899774f67f89461ccf652c8bc3225c68ebdd50a1e2db0a",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2268,7 +2268,7 @@
       "mute2": "T11d",
       "pitch": "C5",
       "sample_rate": 44100,
-      "sha256": "dc67c6dd3bb2ffb0fb2eb27fcd969456bd37c551c6f1da54906ffc0d43327b4e",
+      "sha256": "729886b85a238b8295cbe7085cdb935feb146ebc390c5658511266d9a6101b11",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2282,7 +2282,7 @@
       "mute2": "T17u",
       "pitch": "C6",
       "sample_rate": 44100,
-      "sha256": "dac39a5a0c503d2c3791e1c97951a78909f3be49725a4c38fcdd24d7c8ff184d",
+      "sha256": "e051337c1687fa4432218dd242859f12aec5225e18388f7c4588dc16d9fbcce6",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2296,7 +2296,7 @@
       "mute2": "T11u",
       "pitch": "C6",
       "sample_rate": 44100,
-      "sha256": "e315d2776d9ec96c6080e0a61b1c7d7909b2783cd57e925d20a8cb60ec9a1fc7",
+      "sha256": "12aef124f46a5e8e53215abecb80cea345e17c091fe1a60a646401f262ce8080",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2310,7 +2310,7 @@
       "mute2": "N",
       "pitch": "C6",
       "sample_rate": 44100,
-      "sha256": "7aa92728ea122a57bb22a37fa37a87cfa824cd1d350689c06c347599d849c6ae",
+      "sha256": "05b3a106f6ef1513007f59cd4eef96fcebf1f0bb1eedd7dcf82a1a88315f25f9",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2324,7 +2324,7 @@
       "mute2": "N",
       "pitch": "D#4",
       "sample_rate": 44100,
-      "sha256": "dd55ed63399ff38da7f38c692d7522adad14974160cd161eca3748e3554c6d10",
+      "sha256": "f46ee4157c8932e0cb12874c39a299cbcae3cbfb308e252b82f49225dda3357f",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2338,7 +2338,7 @@
       "mute2": "T16u",
       "pitch": "D#4",
       "sample_rate": 44100,
-      "sha256": "6d2c6b1eef84a5dee47faea8ff3e8a7ebed975a54a80fc473f105b351adce6c3",
+      "sha256": "de7857636ff18b4f73c9b5a4a48c69773d88357210afc2a1708ab27916c8013d",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2352,7 +2352,7 @@
       "mute2": "N",
       "pitch": "D#4",
       "sample_rate": 44100,
-      "sha256": "f04343dd4845d79390c91e01b5f967f8f5f73bb7ec150b3359b32a22989650f1",
+      "sha256": "b98207f09f8fa3f25a4fb37c8927cc22280d459f1ef43a0e5f43afc414829407",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2366,7 +2366,7 @@
       "mute2": "N",
       "pitch": "D#5",
       "sample_rate": 44100,
-      "sha256": "d85d8b3522cf53b6fef2bbca9199c0540a73edadd7a404dc9236b62354bd17a3",
+      "sha256": "c527c66d8eca30f324ae6a00eaee2c5fdeb25a4bcd11650c67ca72520813429c",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2380,7 +2380,7 @@
       "mute2": "N",
       "pitch": "D#5",
       "sample_rate": 44100,
-      "sha256": "985d90511bdee18761b4fdee38b2d40e4d2cb22a43a33a19c3300f8e5d32fd9e",
+      "sha256": "b65272396022a30ecf2fb655377dc82f22a0fa3e3a80ae823bd2007122f9bad6",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2394,7 +2394,7 @@
       "mute2": "N",
       "pitch": "D#5",
       "sample_rate": 44100,
-      "sha256": "b9e17ed7ae3bbefad26a59146e6cced2fcddb73af16b93e722d49b793a828cb7",
+      "sha256": "a46eb7ef5ec515991b406724e703ad0375d12077027bb4bf5872092d33eeb795",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2408,7 +2408,7 @@
       "mute2": "T27u",
       "pitch": "D4",
       "sample_rate": 44100,
-      "sha256": "421c8fe3fcf86307ab04257b4df8405d5249d04cc2f045762b058548c618e815",
+      "sha256": "cf458ecde1cb4ded8e05d89e19f2c951c35cdd9b4fc93920af2214626d5c9a45",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2422,7 +2422,7 @@
       "mute2": "T13u",
       "pitch": "D4",
       "sample_rate": 44100,
-      "sha256": "eba60027a1b3c6cf9b53f0ac0199e63321a4deb6b6e243e3bce91b1716355b4e",
+      "sha256": "401d9e18859c3f8c9293d7cc9194b3d6a67837a9c0897ca29378d14cdfabcb87",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2436,7 +2436,7 @@
       "mute2": "T18u",
       "pitch": "D4",
       "sample_rate": 44100,
-      "sha256": "6a4fcbd79a40b2711c37e9b19867630dd4bc83a26ecde46cf0806f4c638e2aa0",
+      "sha256": "811ce6bd9c7b768808e17f4c78875e1674910dcb2df78ee048a7bcd91015698d",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2450,7 +2450,7 @@
       "mute2": "N",
       "pitch": "D5",
       "sample_rate": 44100,
-      "sha256": "f1c23562f16f302532cdf9714b84270f781c0d49287144b8154346651d365bf0",
+      "sha256": "858e679302f13cc6c22b7237f11d6a44029e086b02f19f813e7972ddc4a14b0f",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2464,7 +2464,7 @@
       "mute2": "T14u",
       "pitch": "D5",
       "sample_rate": 44100,
-      "sha256": "9d7b3787d0c04d8106020030898fe8fc64dbcf45735cffd5482e021af35c8e4d",
+      "sha256": "26ec0b83a13590d67e04f78709dbfff7edbb3c6fb62086b338f64c91dc8a5ea8",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2478,7 +2478,7 @@
       "mute2": "N",
       "pitch": "D5",
       "sample_rate": 44100,
-      "sha256": "8c8de9d5b0b4b298c1696cb34b371e5604b0767b926fc7568e014614d4767e5c",
+      "sha256": "d5e49198265875fe4a98fd3b5e1623b3bc64bec61b01879ece04cc8f2184c798",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2492,7 +2492,7 @@
       "mute2": "N",
       "pitch": "D6",
       "sample_rate": 44100,
-      "sha256": "fc574ff6612fc5bf6b9ce494f453b49ffbe905a98636c0931417543385f14924",
+      "sha256": "c66ce1217fbdcde434481b46a0741327109630419685a1115960eaee3292ef0f",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2506,7 +2506,7 @@
       "mute2": "N",
       "pitch": "D6",
       "sample_rate": 44100,
-      "sha256": "8038bb3ae6d77c51250cf15ffd7ee5a0b733693f36e38d318171e48a372dd5a6",
+      "sha256": "c3da1c543ff7c18ca0a97041e5dc6253c7bb72f1328f6012cc4cb2dfa1dc0873",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2520,7 +2520,7 @@
       "mute2": "N",
       "pitch": "E4",
       "sample_rate": 44100,
-      "sha256": "fb0c1718a22e8a2457e614350ffe02fff462dac8aa90783a8a40fc843c795837",
+      "sha256": "8d4a3981a19c80684d0a0e94fab74a2109fcc9c03ceff0960c771469370bd062",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2534,7 +2534,7 @@
       "mute2": "T11u",
       "pitch": "E4",
       "sample_rate": 44100,
-      "sha256": "42ba03ac9e0330f7e053a49ff3bfcc2b954266297b89aa27a5f7a1d5536539a7",
+      "sha256": "79798c2169f4fb781917e7dcea8deee54a22231b7a3290740a18ba9916987bc4",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2548,7 +2548,7 @@
       "mute2": "N",
       "pitch": "E4",
       "sample_rate": 44100,
-      "sha256": "f6c2ec275d0666792c59fb0e1687e1e23b2ca3c497ccc0b97a99c848add843c4",
+      "sha256": "04f9a392fe883351d7aabb594edae6a5cb2922be3ac8612d8ddf1c6399192702",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2562,7 +2562,7 @@
       "mute2": "N",
       "pitch": "E5",
       "sample_rate": 44100,
-      "sha256": "78f1a9dfb47e4336d37090a0423249b79fda52deb43a205888055127972bea42",
+      "sha256": "7d601bcb10765aced08beab06321a4fa7695dd2ad566d0a56fec87badf9cfb94",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2576,7 +2576,7 @@
       "mute2": "R100u",
       "pitch": "E5",
       "sample_rate": 44100,
-      "sha256": "541130520907a25d25225839a7568a4db1d12dea2da20dd6bdf8ced063a0a174",
+      "sha256": "b216021e74e97686c647c5d998d14abbb7ec153f87f2f8277da46277119faa3e",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2590,7 +2590,7 @@
       "mute2": "T31d",
       "pitch": "E5",
       "sample_rate": 44100,
-      "sha256": "d9ead1b29099d435f32c5cb169aef782ba6994d84e9a51f44e66dabe9773285c",
+      "sha256": "464dcd912e09776908a68cb9dffee11e7945c814beea9a4fa37b114ad333155c",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2604,7 +2604,7 @@
       "mute2": "T23u",
       "pitch": "F#3",
       "sample_rate": 44100,
-      "sha256": "5e331a02c91e2bdb454d5b910f765e6e4d4ff4dced3bcc6fc32c0654bb9a926b",
+      "sha256": "f96375e7c032b5f29d82140a54fc175d01c5ec419c590ef492765b994d456f46",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2618,7 +2618,7 @@
       "mute2": "N",
       "pitch": "F#3",
       "sample_rate": 44100,
-      "sha256": "a3a28531d96218ada3551db34333d514e742574cfe5df1e41af4d2f6bce18744",
+      "sha256": "88f12142d1fd9c8d249326d82a270ae148d2f1e957a594d057ce1cbe2fa4cb15",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2632,7 +2632,7 @@
       "mute2": "T14u",
       "pitch": "F#4",
       "sample_rate": 44100,
-      "sha256": "668645630a617b61c957042c7206b1498c22d23f6c3a84b9c5afa8ea5cfcec39",
+      "sha256": "bb32243e6c0e4ba78796acf0e16d3d6b3e25398170daf981d21095d9b92cd387",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2646,7 +2646,7 @@
       "mute2": "T16u",
       "pitch": "F#4",
       "sample_rate": 44100,
-      "sha256": "ac6a875f1b2e83d0fdf7f047f550a9317e84602c275826a3ede0fb56c069d644",
+      "sha256": "be71b09e5b1f96ef379b145b6fc20d0438f49fa0f94db934c1d008eedee7ffbf",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2660,7 +2660,7 @@
       "mute2": "T12u",
       "pitch": "F#4",
       "sample_rate": 44100,
-      "sha256": "23e2fbdc53bc96446aeb450100b497a83484ab32d951795572c39eadebf42c12",
+      "sha256": "5fbdec330700539c6b257ab5b9be9d8ea1d9d988c9ecd6ccdeaf3825de1c2a11",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2674,7 +2674,7 @@
       "mute2": "N",
       "pitch": "F#5",
       "sample_rate": 44100,
-      "sha256": "24023427be5d261cbdec3402361b0d052bced1df8f77ec7622d440c9c0cdde87",
+      "sha256": "9d503b4ce10718314ddcc75a882ebce7215e44861943beaf9641d717fbc3200f",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2688,7 +2688,7 @@
       "mute2": "T10d",
       "pitch": "F#5",
       "sample_rate": 44100,
-      "sha256": "39c250e084772898c54c4caaea46c7e78ea8beb5682007946a692511282d2ae6",
+      "sha256": "54a1f780d74e152756f0089c4bc2bef39ec3f786a4942da7df15b574e3363b9d",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2702,7 +2702,7 @@
       "mute2": "T22d",
       "pitch": "F#5",
       "sample_rate": 44100,
-      "sha256": "a0a2e5eec8d29a9edc366ead7c97e298987260f94af80ff308232ae01793a2c1",
+      "sha256": "8844d583eee7c46b4f6146fc909f26faaf8ae3769ca9f692a2430dba4abd6677",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2716,7 +2716,7 @@
       "mute2": "T17u",
       "pitch": "F4",
       "sample_rate": 44100,
-      "sha256": "1c5db941f221c1f2a16b03c8acea5cfb54dccf571ed2d30b98085b6613d8331f",
+      "sha256": "b67b293722a906cbc298c926c3c89556dfb919a6406ecb8f1780ed09d465284b",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2730,7 +2730,7 @@
       "mute2": "T25u",
       "pitch": "F4",
       "sample_rate": 44100,
-      "sha256": "9924d14117a9b85c40e1cfac55fdc16bb72eb48c887f63c040bca2b1a87ff1b5",
+      "sha256": "ef71b5c3e37a4b59e9dba685c0f75e2f77744f357f2baf0c0641ae8d56203d75",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2744,7 +2744,7 @@
       "mute2": "T12u",
       "pitch": "F4",
       "sample_rate": 44100,
-      "sha256": "730ae667abe1079fe1fce86b98de3d0c51b41ccefb95d25e8b990635f92ba998",
+      "sha256": "e05b2a49a5131f2bb03722a5d752df4ea622c3d0ca0dcd1d6f6ea45410bd0d08",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2758,7 +2758,7 @@
       "mute2": "N",
       "pitch": "F5",
       "sample_rate": 44100,
-      "sha256": "8e8a24f95577c6b476038d9ab8ace1b9146ad646d13d3d8e1319ebed58b60ff4",
+      "sha256": "92bbc9a18ce9c15818174046a0ff8dd4908e3d5e4210f65c7a3dc0491efd7b23",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2772,7 +2772,7 @@
       "mute2": "T11d",
       "pitch": "F5",
       "sample_rate": 44100,
-      "sha256": "9b541140e2189d38f04773e910baa37aaa87d62b52b4beb39c3abd9c98ab7df4",
+      "sha256": "5034680a9d31e0f412e2e61632730bf618a06c89e3122d4b091755024c3e2617",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2786,7 +2786,7 @@
       "mute2": "T12d",
       "pitch": "F5",
       "sample_rate": 44100,
-      "sha256": "fe968097c4c64a7755dbcaf1948268d492880675ceb709f273a3eb254b305496",
+      "sha256": "2b898b265ba679307b91f612f7443b8e0412863ffe2fb90fbbf803a0a4170710",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2800,7 +2800,7 @@
       "mute2": "T23u_R100d",
       "pitch": "G#3",
       "sample_rate": 44100,
-      "sha256": "4c2a616cdb8544a63e3f91449fcdf9f0d84eaf26232a261e103ed934351fd1ac",
+      "sha256": "b4e2860f9c97a6c6cb1aa0b8463c1b64495eb9181d200d7234e87357a2cf2401",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2814,7 +2814,7 @@
       "mute2": "N",
       "pitch": "G#3",
       "sample_rate": 44100,
-      "sha256": "84841606175a860bc22d982f9aad0bd98f57e13df96d880c09ae6794756ca1a8",
+      "sha256": "ef5999c8b8546fe37bf304bd8e174cda0435a7a51354ccaf2ace44f7e8eefde4",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2828,7 +2828,7 @@
       "mute2": "N",
       "pitch": "G#3",
       "sample_rate": 44100,
-      "sha256": "149740dc52dd771c2393b8f3af627e2571e78ad383619b6553f82ff17752c142",
+      "sha256": "0841a555de9d627a071bd14cb85953197fd121a3961a4245d09df0f724750dbd",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2842,7 +2842,7 @@
       "mute2": "N",
       "pitch": "G#4",
       "sample_rate": 44100,
-      "sha256": "f91b4c53e8d2860d74dd3f4560168ab15318b3ee86d42cb40dfe2968fdc74b26",
+      "sha256": "aaf649f6f6e6c539d806b7162b12387bef3cecf2aa85fd3b53a7974659d7b4bf",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2856,7 +2856,7 @@
       "mute2": "N",
       "pitch": "G#4",
       "sample_rate": 44100,
-      "sha256": "1f6bf2cf7995b6b11c58230442779601e177e074b08cc1a650bc0a4fe9a11fc1",
+      "sha256": "e9d8d34eb707abbc9f43d67aa14a4101a03f547195653170ff147a23027bffa8",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2870,7 +2870,7 @@
       "mute2": "N",
       "pitch": "G#4",
       "sample_rate": 44100,
-      "sha256": "ee4088d40385039a9759c1104e351355d1eaf47fa3f5fefa8671a9fce315313a",
+      "sha256": "85ba2e64a5948d390b027356c51084539036d4a7e20fb86d61cf3712ef859472",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2884,7 +2884,7 @@
       "mute2": "N",
       "pitch": "G#5",
       "sample_rate": 44100,
-      "sha256": "e3c7a6956f0795d1a1e9868a776784992803cd159f81cda53e56ed61f3f902d9",
+      "sha256": "10c931c7b5e70d598a69bd434c2bee4c3a099d25adf1ce68b7f48ba59c7f1f10",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2898,7 +2898,7 @@
       "mute2": "N",
       "pitch": "G#5",
       "sample_rate": 44100,
-      "sha256": "c14ecf2eb048a69d1b04ffe3764e638df35678388692f26107dc420c5068d4b2",
+      "sha256": "3867f8775fda40486839d1e48c7e5df68635c6a1736d3727c1a94584d5bd7818",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2912,7 +2912,7 @@
       "mute2": "T23d",
       "pitch": "G#5",
       "sample_rate": 44100,
-      "sha256": "a52c63e549c9111a51e5b4420931d6e13b582c18be492130203139c947122a62",
+      "sha256": "2d2544dbe2032a183189362722df73397e737beda45c1ecef3429b971fbb3677",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2926,7 +2926,7 @@
       "mute2": "T21u",
       "pitch": "G3",
       "sample_rate": 44100,
-      "sha256": "0e6de75a14a787f7f60ae77487f20cc720e82c1e5c6b33041f6e8e904c9eb6be",
+      "sha256": "c81b7a24eae04368393d39d56c6472bc604ef66fd13365b7f9dba3b30cb91161",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2940,7 +2940,7 @@
       "mute2": "T12u",
       "pitch": "G3",
       "sample_rate": 44100,
-      "sha256": "637a81cd99d12102e1f5ea5d8e503e6395a4960f812e1a41d14a02071574db86",
+      "sha256": "1efe9f55ec51a3dd126338b46c3563e6f925c5e1cc7ef6f87f0b8242d2aee112",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2954,7 +2954,7 @@
       "mute2": "N",
       "pitch": "G3",
       "sample_rate": 44100,
-      "sha256": "31b452043bf6c33760c029502b17a14ea8bc8cb1841c83f575bca6a83ebfa6d5",
+      "sha256": "1ceb5d1ad1ddd06b670ecb43dade7bb79b27c0fd4d448d090f7931c9f68422a4",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2968,7 +2968,7 @@
       "mute2": "N",
       "pitch": "G4",
       "sample_rate": 44100,
-      "sha256": "c8a77252abdcac7780fe466d0effff7063da27cb9cf9258e82348b38c63b724a",
+      "sha256": "81a09e7b0603c9cb5bda411c04172a2a59278d1897b72f6b323f791af72dc703",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2982,7 +2982,7 @@
       "mute2": "T15u",
       "pitch": "G4",
       "sample_rate": 44100,
-      "sha256": "159a4eeee3152886998268d7af813864ff57caa55625b9ad0a94bab188cad691",
+      "sha256": "dc971b65b2568ac52e62989e7d9087728c2cb6169eff94976810312f8895eb3c",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -2996,7 +2996,7 @@
       "mute2": "N",
       "pitch": "G4",
       "sample_rate": 44100,
-      "sha256": "80e9618f15ace04ae360d5d9480e9940e22f5087f201324093a79b7326d2ac6e",
+      "sha256": "7cc57461c95edf0c81116464fb25094e8794813f52d28f958a29ad97e2acae61",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -3010,7 +3010,7 @@
       "mute2": "N",
       "pitch": "G5",
       "sample_rate": 44100,
-      "sha256": "ba423d8b71fea1bae10110d3560d1beecfba5163ffa9f36f516718c6acf5ae74",
+      "sha256": "6e3fe3f742d52f7df32f7b68b3726fd7d3dfdd1bea3458625c629dfdfc9463fb",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -3024,7 +3024,7 @@
       "mute2": "N",
       "pitch": "G5",
       "sample_rate": 44100,
-      "sha256": "8785ff6f9ede7c7fec9752ad4f31694b0f8050e954d3fb312d00112af8a014b9",
+      "sha256": "90a890ed9bb5af0f5cfb6fdefd5c1f1c50ed00fb4374491ca5e4d7eb19833899",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -3038,7 +3038,7 @@
       "mute2": "T25d",
       "pitch": "G5",
       "sample_rate": 44100,
-      "sha256": "3fa0e36ccdbf016ba536f01bb18723933cc32936160cf32391f05b82abf8cb63",
+      "sha256": "bfaf4fb33dd6d6eb4ec1affb7735b8ecfaecddf0ff9b2aecfcdcb8b326a1da4e",
       "source": "orchideasol",
       "technique": "ord"
     },
@@ -3052,7 +3052,7 @@
       "mute2": "N",
       "pitch": "C#3",
       "sample_rate": 44100,
-      "sha256": "5d2f5f123ed8fa8650a9b129f1a183eecaa08974d553f1d6c66e288ecca6afbe",
+      "sha256": "fc0fc96b14fa7523cec2848e49a11f701aeb6b9f7749803ed78a0d28bbb27951",
       "source": "orchideasol",
       "technique": "pdl_tone"
     },
@@ -3066,7 +3066,7 @@
       "mute2": "N",
       "pitch": "C3",
       "sample_rate": 44100,
-      "sha256": "00ab7645f114b02cd6c82bbc468cc9117a6f32e0be683730f21d0e7237b2fe3a",
+      "sha256": "38b98051a1b54b593432fe65126cc28d31277629fbb5e4bf8c8f26415a7a0603",
       "source": "orchideasol",
       "technique": "pdl_tone"
     },
@@ -3080,7 +3080,7 @@
       "mute2": "N",
       "pitch": "D#3",
       "sample_rate": 44100,
-      "sha256": "d2c588592b9b0e38c0f44d734acc9deb9e8926f348b16cebf184cd1be972e45f",
+      "sha256": "e7bc04cf759f603e0a238853b4c25d9a09a4822e5d3ba82afa2b5e2e3a6beb33",
       "source": "orchideasol",
       "technique": "pdl_tone"
     },
@@ -3094,7 +3094,7 @@
       "mute2": "N",
       "pitch": "D3",
       "sample_rate": 44100,
-      "sha256": "ffe8d303a191184d29922cb0c33107c2c1604b1508a52a901aed5362c6f05575",
+      "sha256": "b0bcd8221c6a684c93cd6fb62b4d72325f1103ca669237a8f7ab0045aa83607c",
       "source": "orchideasol",
       "technique": "pdl_tone"
     },
@@ -3108,7 +3108,7 @@
       "mute2": "N",
       "pitch": "E3",
       "sample_rate": 44100,
-      "sha256": "fbe566ee74e7dbb0dcfe236adf68726bd6417a71671d4eaf585487f8450b164a",
+      "sha256": "a0a73973f84e9cd417bb5bea00189639b0d08e79f03bbff065d8f04ccfc8354c",
       "source": "orchideasol",
       "technique": "pdl_tone"
     },
@@ -3122,7 +3122,7 @@
       "mute2": "N",
       "pitch": "F3",
       "sample_rate": 44100,
-      "sha256": "8a2e9e14549a957289692fc247a374961661ad63876a119e7df60361743dc150",
+      "sha256": "d47cd869c381cc76e30557c22bf46ff24488c120a783c0e1f972b5b16265c836",
       "source": "orchideasol",
       "technique": "pdl_tone"
     },
@@ -3136,7 +3136,7 @@
       "mute2": "T17u_R100d",
       "pitch": "A#3",
       "sample_rate": 44100,
-      "sha256": "9b42dd780eff1159d07b9cdce293eca1435eb262d6a7ec7a9ab6c41d4047d9bd",
+      "sha256": "c150aad202cbfafaa2639bb25fa483841b8e9c032914059b0fcf91e79512be1e",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3150,7 +3150,7 @@
       "mute2": "R100u",
       "pitch": "A#3",
       "sample_rate": 44100,
-      "sha256": "019ef4782d02923044262a5009a5fd115a8d62f2d6f5f39c7a8552db6e986a3e",
+      "sha256": "38d6caca41a84cb02b3de47cf307ff6a38405d46f81a7bfc3d8b46eca35225c0",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3164,7 +3164,7 @@
       "mute2": "R100d",
       "pitch": "A#4",
       "sample_rate": 44100,
-      "sha256": "2c44b85fdf064f3ead3d68a956491e2653b813aa9b7c3b08d6823fa39ed10084",
+      "sha256": "c9a9f4e784ea817d54c70c3453fdf138ef78462360e933568e297441567c6f1d",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3178,7 +3178,7 @@
       "mute2": "T10d_R100u",
       "pitch": "A#4",
       "sample_rate": 44100,
-      "sha256": "38681c1705458fe7c02c08260868a30d51247e18b35f438d60cc35e6a71fcdcc",
+      "sha256": "90ec670b3e7edf74deb33c2b1689c997450267a5b359181e9c4d911c246168bc",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3192,7 +3192,7 @@
       "mute2": "R100d",
       "pitch": "A#5",
       "sample_rate": 44100,
-      "sha256": "bd80d964306a5c8a402548bd5b2f9cc45c812265051a7e3b2da9a37592eb653b",
+      "sha256": "3924095fc463ad777e68669e51d14ba13f93b2175263b91527e34871827d9135",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3206,7 +3206,7 @@
       "mute2": "T12d_R100u",
       "pitch": "A#5",
       "sample_rate": 44100,
-      "sha256": "b2e55759c81b01f2476f978cf6512c8b5e7a9bcabdc3ec2cb30e0fb95f2f548e",
+      "sha256": "7fe8b66b95d56f41a46e4c1efb773d101cc75004cc14ba71b1c32f18c8d74512",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3220,7 +3220,7 @@
       "mute2": "T17u_R200d",
       "pitch": "A3",
       "sample_rate": 44100,
-      "sha256": "c76f6c44575296f4fb095941246106eb35bdd6466a0cee31e80a02edf4ae76c9",
+      "sha256": "9a201e255c82cb0412076f3f741c61f5a18736dd5b9c60efc97e5c645966d2eb",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3234,7 +3234,7 @@
       "mute2": "N",
       "pitch": "A3",
       "sample_rate": 44100,
-      "sha256": "8b084f641b5bdcd187b2f9076875fbf8359ad7c9dc82db11296540b73747720b",
+      "sha256": "2eb7c86cc1c40b5cf4b431d0139b5844109d300d122e63f56cb215d72d02493a",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3248,7 +3248,7 @@
       "mute2": "R200d",
       "pitch": "A4",
       "sample_rate": 44100,
-      "sha256": "eb643dd3a59c538a24fb32f0fe4354a3fabbfc5f502cf0121af5fe9dc4b5947a",
+      "sha256": "c840642eb2a327dfbe82a73cf46c8bc20986bc2dc6e12844894f50dee21f0e5b",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3262,7 +3262,7 @@
       "mute2": "T10d",
       "pitch": "A4",
       "sample_rate": 44100,
-      "sha256": "ba90ff3971419a46268b33142b7356ba699111e0abf8665c32219798c9e04170",
+      "sha256": "cdb99dc4c09c6d8e2fd34d3e0fda96deb74c33e187ece3cbb832117c47f0b9a1",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3276,7 +3276,7 @@
       "mute2": "R200d",
       "pitch": "A5",
       "sample_rate": 44100,
-      "sha256": "dff34bdc834c981aa9474b191675d90a04de834415d1837bbbe83ff1cfaa7cef",
+      "sha256": "bd6c2a45b34a2ae9ca69dadc5abfc4d126577e93eb7483be9944483165bdaa12",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3290,7 +3290,7 @@
       "mute2": "T12d",
       "pitch": "A5",
       "sample_rate": 44100,
-      "sha256": "8b0a9f347c40610f94e425ba24863b78dcadb5b055b49698851ae750d6624833",
+      "sha256": "aacbeaae9fe669fbdb83aebecb8da9f060ff98f6c7c85dc122df704998c93640",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3304,7 +3304,7 @@
       "mute2": "T17u",
       "pitch": "B3",
       "sample_rate": 44100,
-      "sha256": "81185b2e62778b48bbacf533f9bd097dedb3528e8d1337ec3e76ecd01ae0ad81",
+      "sha256": "bde3391789698f2b825be5be1d67e17c47f3fa15b945b9ee60ecc4ebabfb68a1",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3318,7 +3318,7 @@
       "mute2": "R200u",
       "pitch": "B3",
       "sample_rate": 44100,
-      "sha256": "ad4d0c51e42e9b4687c8418dd17416e1b8c63071a5b89da995a352e77db9b14f",
+      "sha256": "70f01950e9f658cc549b96e8b89fcfb93d51b34799ee0d9a388e6e4900323246",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3332,7 +3332,7 @@
       "mute2": "N",
       "pitch": "B4",
       "sample_rate": 44100,
-      "sha256": "fad5e3b5f495d05e97307c8a1ac4ba38ec76a61f9a0c83c079faf27a96a24ec6",
+      "sha256": "be47e2984b792e927bdfb900190fbb432e2fe0ce3f2b3187840e383bd181e2d8",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3346,7 +3346,7 @@
       "mute2": "T10d_R200u",
       "pitch": "B4",
       "sample_rate": 44100,
-      "sha256": "a8e4a65449999c8ced87af3b967c9c3796825bbf67a6708152f401674b7f9234",
+      "sha256": "3f34fa260d76ad07a3f1d42d6b534bc125eb1fa3e5547e13eb71e7e491b4778a",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3360,7 +3360,7 @@
       "mute2": "N",
       "pitch": "B5",
       "sample_rate": 44100,
-      "sha256": "d9a1bee8d1793e67e8f9d2f9a945d9cc751fa68555bf5738ceddc56438fc109b",
+      "sha256": "45a6c236c66b1f33a6e3f1c7593f3dd7c211e6b7437aaf23d0ea38f716b1d305",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3374,7 +3374,7 @@
       "mute2": "T12d_R200u",
       "pitch": "B5",
       "sample_rate": 44100,
-      "sha256": "0a179a30c534bd979ef9dc6b22504fed5c1c4ea23b749a52e3807d4e4a45c7bb",
+      "sha256": "0c24516b6dce82aa9df78e425924fd6559dd462a3191adaaa8ce39082ea34838",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3388,7 +3388,7 @@
       "mute2": "T17u_R200u",
       "pitch": "C#4",
       "sample_rate": 44100,
-      "sha256": "8362d98195ac9f49b1d18a643a48f86b97fa1584b9e427f23412a2d6d2348e38",
+      "sha256": "5d65013e2b9af08f0fdc6aee20d86af1a3ba6474a5aa5054b691969fba3a4c0d",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3402,7 +3402,7 @@
       "mute2": "T31u",
       "pitch": "C#4",
       "sample_rate": 44100,
-      "sha256": "f8d4439221d1adf6e4caf6e77afdbd44b9a0244eca7fcbaf429c211d56dcc78b",
+      "sha256": "8a8e5d5827f9e7c296d2e940208a9bc2209d9c6354b086691f6dd5622e89e8ef",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3416,7 +3416,7 @@
       "mute2": "R200u",
       "pitch": "C#5",
       "sample_rate": 44100,
-      "sha256": "33d8c9349d346864d39695617a0ba54c4441d567b9bf76e549edf86d3b8535f1",
+      "sha256": "e9f12070bc09d8776ea48befbe0196f5490459a938f945098aba328ea6c6f0f8",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3430,7 +3430,7 @@
       "mute2": "T12d",
       "pitch": "C#5",
       "sample_rate": 44100,
-      "sha256": "e76e1ddc41f2b9bf2cfa56900ac002b922bd2c2dc9237a337d683c179dfb3252",
+      "sha256": "c9a9a51564427e15791e8988df490018ed1fc5e550a034c16b38489c8287c3fd",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3444,7 +3444,7 @@
       "mute2": "N",
       "pitch": "C#6",
       "sample_rate": 44100,
-      "sha256": "a10d6128082464a070dec49e984ea5588faa8c2052fcca0a5694212391b5ab1d",
+      "sha256": "f0449e768483829d6e80f48241792b30ed613d480b8dc80f8369526fc01ab616",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3458,7 +3458,7 @@
       "mute2": "T17u_R100u",
       "pitch": "C4",
       "sample_rate": 44100,
-      "sha256": "f92ed40ae3bc120f6daa9295cff0de1c03268f3d2900ed37ce006b8ada04d578",
+      "sha256": "a30293738e9b3f984a84080427b5bb7f3f70ccbc0bcd7bff5094debf9f4922d5",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3472,7 +3472,7 @@
       "mute2": "T31u_R100d",
       "pitch": "C4",
       "sample_rate": 44100,
-      "sha256": "c87e345daa11a57b23093d44a4fcd5568e685a54f571291c7d03714b4d551ce1",
+      "sha256": "87750b0789c3fe80a5813ea3be5745715669dabfa5bfc5177dfc99a8566eecae",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3486,7 +3486,7 @@
       "mute2": "R100u",
       "pitch": "C5",
       "sample_rate": 44100,
-      "sha256": "709d562852f717e383f7f3eeaf6bf44e4e4af8e1bbd6e9a5528ab953ceb2acdf",
+      "sha256": "e04b73fbb383a6eddf3ced6ecc6ab5bc3461b8bcabc9dbe52b72536040d95a2f",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3500,7 +3500,7 @@
       "mute2": "T12d_R100d",
       "pitch": "C5",
       "sample_rate": 44100,
-      "sha256": "0a610171fa9abc4fbe4e56114fa8540e7218d782a4e8ac1cd007ad3a4d945793",
+      "sha256": "b3a3e4574aa7f04dc43d158d2581a6161d423492684cd5ce5388dff7909c614a",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3514,7 +3514,7 @@
       "mute2": "R100d",
       "pitch": "C6",
       "sample_rate": 44100,
-      "sha256": "f46a244e67f17362d981f53c756bd07933559ff1d941b25671f693e84ca10b4b",
+      "sha256": "5069d2b2cdd2ce316dcebdf9bf42297908a0064c7416caab9c80217e838041ce",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3528,7 +3528,7 @@
       "mute2": "N",
       "pitch": "D#4",
       "sample_rate": 44100,
-      "sha256": "811218da686e000d0d82f7400f243bade80562a669ea460ae7b78c4af148d873",
+      "sha256": "18fd449d608b09f4a34735d8077cf6aa234480cfa86ea120354c82fb6c62211c",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3542,7 +3542,7 @@
       "mute2": "T31u_R200u",
       "pitch": "D#4",
       "sample_rate": 44100,
-      "sha256": "c11b24df3ead093267d8a21de1bf529342fb271d26460bd68cd20cd2fa618147",
+      "sha256": "e9564a16be399ff3f3ac49a5c4f3c03d1e489f0f337315a8d2aa5c598e6399d7",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3556,7 +3556,7 @@
       "mute2": "T16d",
       "pitch": "D#5",
       "sample_rate": 44100,
-      "sha256": "9e27ab2dd6dea7325cf056e8d829ab75f29d7edf2bc6f843bf319351f792beb9",
+      "sha256": "28ee0c6711bf4c17a3cab939fc52f848947e28edd00dc01a83b73dcb7bd7612f",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3570,7 +3570,7 @@
       "mute2": "T12d_R200u",
       "pitch": "D#5",
       "sample_rate": 44100,
-      "sha256": "c23248f9e48676d4b2fe038fec174548f0c1cb4623cdbf84b6e0c8b006153f1c",
+      "sha256": "22a783b89c51721019728f64f59813ac0cf8555741fe7cf055eceef3a1483fbc",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3584,7 +3584,7 @@
       "mute2": "R100d",
       "pitch": "D4",
       "sample_rate": 44100,
-      "sha256": "41cbd6653b43c142e723bb5ede8afb29b5db0bc311c0d8c6bde9749a4b922fd4",
+      "sha256": "80682b30e183e6949d203876c8d27fc48595273b4e09018adbb3ba57ec4a52ee",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3598,7 +3598,7 @@
       "mute2": "T31u_R100u",
       "pitch": "D4",
       "sample_rate": 44100,
-      "sha256": "296fd7f12cd70160be2bfd4562f0a2d62adc28dc6895bb5e7352d8b86e299b05",
+      "sha256": "fa0ed68601b6334723998216d3869e1ff95dce9f008ba9637aaa1e0d679680d4",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3612,7 +3612,7 @@
       "mute2": "T16d_R100d",
       "pitch": "D5",
       "sample_rate": 44100,
-      "sha256": "a171b35978530b1249542a4e2da93e9f8d31dcf11206480a47b914509c03fb16",
+      "sha256": "50940f9affdefb6594c233d3966eb549afb9a18b21a957a3c47fd641e98da851",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3626,7 +3626,7 @@
       "mute2": "T12d_R100u",
       "pitch": "D5",
       "sample_rate": 44100,
-      "sha256": "da202ef6345fdfb5dbc8c1899c925ad17ec46c71c3268ebcee7057d9750b28c3",
+      "sha256": "eb665f7827e1be08558fe7175fa95b8accc408dc97cbedaa6086de5b4d9ab590",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3640,7 +3640,7 @@
       "mute2": "R100u",
       "pitch": "E4",
       "sample_rate": 44100,
-      "sha256": "d3e9487a7a7eaa55ae8acb6fb6d17206cbb8e59442ab30b0930fd6e68627343d",
+      "sha256": "2c6d2723adbf966de71b4a1801152c9ae5747fce332554edf0e7d026335dc947",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3654,7 +3654,7 @@
       "mute2": "R100d",
       "pitch": "E4",
       "sample_rate": 44100,
-      "sha256": "0f0af94d5d6f8066568ada86ef82e1af85f9345de0ae6b3dcece351d18af64ad",
+      "sha256": "de401a331a6ea5b7b6f548ab6aef5340152e108b28aa5c9c1c74d40107300b0a",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3668,7 +3668,7 @@
       "mute2": "T16d_R100u",
       "pitch": "E5",
       "sample_rate": 44100,
-      "sha256": "e6aa1c07c62ecf54032010232f3e49845a201f066c30431953cde69d88b825a9",
+      "sha256": "b2faaf00ae9a1462373f1394cdeeb3fc0c01c750b70b0ce73641fb0cf0dc3ed4",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3682,7 +3682,7 @@
       "mute2": "T18d_R100d",
       "pitch": "E5",
       "sample_rate": 44100,
-      "sha256": "38ce24d751bd51fde577258d88558b62ec97223880fbc63b3d6f57ead73ca295",
+      "sha256": "99c5db0de81b10c6a77bd7786e63c661371c0e41ec32ab3213bc6100d41946d2",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3696,7 +3696,7 @@
       "mute2": "R100d",
       "pitch": "F#4",
       "sample_rate": 44100,
-      "sha256": "8e5c1d80a1e255eecf8991c3f3ceca4cdd05724295e734e137a8dbceff6295c5",
+      "sha256": "11e51da238b275d5519f8c78c94719f93d2f5a48985fdbfbc9ac41cffb351796",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3710,7 +3710,7 @@
       "mute2": "R100u",
       "pitch": "F#4",
       "sample_rate": 44100,
-      "sha256": "57ed778d23e6e3e3c8a1040c909f2c6278d47c4a810e41bab70a4402a027010d",
+      "sha256": "570f936306fbd09b72e0401da0155967764b4de59c931e0509e140e1c3f66b7a",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3724,7 +3724,7 @@
       "mute2": "T13d_R100d",
       "pitch": "F#5",
       "sample_rate": 44100,
-      "sha256": "97b040268944155f2b0ba4c6a9fe389309fa9f447fdc8cd4ca6bcaa4ba43b22e",
+      "sha256": "a978e025200263fa6edf09b596e4f58123d8152299af7bc088c3397d17714262",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3738,7 +3738,7 @@
       "mute2": "T18d_R100u",
       "pitch": "F#5",
       "sample_rate": 44100,
-      "sha256": "19d8f3e2d17773553602786fc1814a2a0ddccf4b5ca2f271cf12973b94029769",
+      "sha256": "b0fc2e98be6b7c3e4c4989160928c0f6c3ed01ad4fc3111caf09a32bc0682763",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3752,7 +3752,7 @@
       "mute2": "R200u",
       "pitch": "F4",
       "sample_rate": 44100,
-      "sha256": "f7cf9d1928a59826355666857ba13184f7fe4c83814d8da4cbeea7a68fbb8027",
+      "sha256": "9478687b62f47cd1b537edebc595b7788fa3d6c125da40488b2738ac6dd5c213",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3766,7 +3766,7 @@
       "mute2": "N",
       "pitch": "F4",
       "sample_rate": 44100,
-      "sha256": "c5214f2a8dd161d6ec68ba71ac9ce393937b69b3e5c1934c75fc2392a4909c0a",
+      "sha256": "392f474d38a128f0249d6c927fdcd5755de24ddcac4d3c4350e8a8f59d353734",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3780,7 +3780,7 @@
       "mute2": "T16d_R200u",
       "pitch": "F5",
       "sample_rate": 44100,
-      "sha256": "90bfa1653f0a38d5560423753a6ca609a17687616fc08bf3d96c73225d37868f",
+      "sha256": "9e486a9dbf84e132160529ac204ecb990b558fa77776b1116c980565c5075b3a",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3794,7 +3794,7 @@
       "mute2": "T18d",
       "pitch": "F5",
       "sample_rate": 44100,
-      "sha256": "349673f73ccbe35a5363e29c87ba0632cbf6476afe9e2ea2f4841e8c946ff3ac",
+      "sha256": "4fd09eb6f4a156ba9d057bc3d36c57e5dc77b6cb7e971d2ca3150594dc04ed12",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3808,7 +3808,7 @@
       "mute2": "R100u",
       "pitch": "G#3",
       "sample_rate": 44100,
-      "sha256": "518afe501824f7862718429fbc069b526047e0df1b2943fd8d878564b820940b",
+      "sha256": "5ce5180ed398a788fff8bf4b110b7c8fb5f9675d3c531952b232448664e71ed4",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3822,7 +3822,7 @@
       "mute2": "R100u",
       "pitch": "G#4",
       "sample_rate": 44100,
-      "sha256": "ff644aa48c91db24c7d6ce50923807ea4300afb21b11d19101a4bb0336521437",
+      "sha256": "cc72cdaef1313307aa572da236ba4edfc6c6bb8e09556d8efaa333ed88c8c0c0",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3836,7 +3836,7 @@
       "mute2": "T10d_R100d",
       "pitch": "G#4",
       "sample_rate": 44100,
-      "sha256": "f9c2a0479dae8f88f0a4a13d0b89d750a10ad2794c598ba8eefb730d5897189f",
+      "sha256": "001385ba7bd8c7c2a761acfe53947c1173d497dd7ef49380e65568150ddf5fde",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3850,7 +3850,7 @@
       "mute2": "T13d_R100u",
       "pitch": "G#5",
       "sample_rate": 44100,
-      "sha256": "2fa98bc5015cc27d8fede16ea617f4fb33dee88fe7b3a48403a5e885d9d5a039",
+      "sha256": "f19139c0f26c034063a0225198549a41b0fc2b6dc6a073690a36c48811cbdef6",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3864,7 +3864,7 @@
       "mute2": "T12d_R100d",
       "pitch": "G#5",
       "sample_rate": 44100,
-      "sha256": "c2a61be8110c890a17d345ffea9376c7ac2dbb1019942272b3f671e658226d0a",
+      "sha256": "7ba13079454ee50a4c0043d047be8e7fcc265318de1a523b1c8d062f150302f1",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3878,7 +3878,7 @@
       "mute2": "N",
       "pitch": "G3",
       "sample_rate": 44100,
-      "sha256": "2680e95af190b13c114d866b97766ab98c2ac1a6e40f95126cbe3654c9c1186f",
+      "sha256": "e2d5fa224dd05a860643894e4df8bbc08dcc188ea0919b4ae2a097ef2e07adec",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3892,7 +3892,7 @@
       "mute2": "N",
       "pitch": "G4",
       "sample_rate": 44100,
-      "sha256": "c3ea8a2b9dff123e929b55b5002bd1ffe44e4cf59489a7dbf086a3f74f93d6ec",
+      "sha256": "c58cdc0e39fe07f08ddc2c652b25b6f042ad1ed2edd10efde338ef5ec407bf09",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3906,7 +3906,7 @@
       "mute2": "T10d_R200d",
       "pitch": "G4",
       "sample_rate": 44100,
-      "sha256": "4a886574e73fa01c835d75e898c47c272fc62f8cd56844b0a8d533e60a207ba4",
+      "sha256": "e248ed73ffe1785da38e9311722f7090bbf08543040dc5765f36598260e0c770",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3920,7 +3920,7 @@
       "mute2": "T13d",
       "pitch": "G5",
       "sample_rate": 44100,
-      "sha256": "eeb0c1fbdfe9e446188d094cc9b68ae236aaaa83df0d4a8d2bb3d080e1661af1",
+      "sha256": "d2aece756e93a9781920024d882ec5f0e19f7864c8326f0b390ac8595606f44c",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3934,7 +3934,7 @@
       "mute2": "T12d_R200d",
       "pitch": "G5",
       "sample_rate": 44100,
-      "sha256": "b8fa73ba7a515e3593c8e66e7a984bc7afdc67856a4e7091ba43907a664d0fbb",
+      "sha256": "184e91934999332e5270169bc46574449d01290d3f9a78f65e5e868f4d5deeb2",
       "source": "orchideasol",
       "technique": "sfz"
     },
@@ -3948,7 +3948,7 @@
       "mute2": "N",
       "pitch": "A#3",
       "sample_rate": 44100,
-      "sha256": "b060a351369be84dee1fa720d12658a8fd0faca981d7e0cd1844544759892140",
+      "sha256": "8790b640070b8dfb6427b5b889d47f8aff4efebfe39f4fe39cc188ee165cfcdb",
       "source": "orchideasol",
       "technique": "slap"
     },
@@ -3962,7 +3962,7 @@
       "mute2": "N",
       "pitch": "A#4",
       "sample_rate": 44100,
-      "sha256": "fe0ae354ab805222b9a1da208b065c47a50885a52560845efd2f0399edcd5d32",
+      "sha256": "1cee391e2acb339396a63666df5713c14367135bdf1a50632d8c3ea0b91030cc",
       "source": "orchideasol",
       "technique": "slap"
     },
@@ -3976,7 +3976,7 @@
       "mute2": "N",
       "pitch": "A3",
       "sample_rate": 44100,
-      "sha256": "fe55bb0adb941e904b49b06065e45be8fbe3eaa0c51f409a63e43139e79777ff",
+      "sha256": "40b95d8c6b8ae811c7ff967b48d9fd910ef1e7edd7eae1c7b159273432747b34",
       "source": "orchideasol",
       "technique": "slap"
     },
@@ -3990,7 +3990,7 @@
       "mute2": "N",
       "pitch": "A4",
       "sample_rate": 44100,
-      "sha256": "570f1db680bd2aaa7fb9ef02cd2f2cb44f47dbb035cbb88e859b02c861b0a860",
+      "sha256": "8483daf4f88a7bcdd98ddfc3b7722550fa05837a8eaf2f0789e9417977a90042",
       "source": "orchideasol",
       "technique": "slap"
     },
@@ -4004,7 +4004,7 @@
       "mute2": "N",
       "pitch": "B3",
       "sample_rate": 44100,
-      "sha256": "618cbd4a6bcbf97ee6010b99fb73123c66e236ef0aae99a809675149389782a0",
+      "sha256": "4c924bbf609bc77c01a3d4ec28515dcc59198eb2332abb8b3c657366e7cb65e8",
       "source": "orchideasol",
       "technique": "slap"
     },
@@ -4018,7 +4018,7 @@
       "mute2": "N",
       "pitch": "B4",
       "sample_rate": 44100,
-      "sha256": "1e408b9199e5511d1306cea108224a086d8f94ee27e0e7f89da87843e9070cb1",
+      "sha256": "df3b2888d112d72946e8d34c38c45085e62faef2648dcb6319e11be09bd85a58",
       "source": "orchideasol",
       "technique": "slap"
     },
@@ -4032,7 +4032,7 @@
       "mute2": "N",
       "pitch": "C#4",
       "sample_rate": 44100,
-      "sha256": "b7991ada7662135b48dfe82270e37820d6972430b49b45b658ea98bac3251a8b",
+      "sha256": "7699014a0e0533fd8bb5955d211a6221cc7fbe590e9ed729a26be98e742d7889",
       "source": "orchideasol",
       "technique": "slap"
     },
@@ -4046,7 +4046,7 @@
       "mute2": "N",
       "pitch": "C4",
       "sample_rate": 44100,
-      "sha256": "208456a1f49f5d22020e7b38d6756fc69925e2b01c4811ab4ae48c51c2214999",
+      "sha256": "e21078cad711287579dd6b1cef3312a8e13f4f7951754c959eba779ce6c38d95",
       "source": "orchideasol",
       "technique": "slap"
     },
@@ -4060,7 +4060,7 @@
       "mute2": "N",
       "pitch": "C5",
       "sample_rate": 44100,
-      "sha256": "035ba64983e1a43b327dea0c5abf57738978d701ca12a2a533da886c04476fa2",
+      "sha256": "8a578d27443905ad0172c97748e9f17e11a8f64d0b2c099cde67ab91a8ad6f71",
       "source": "orchideasol",
       "technique": "slap"
     },
@@ -4074,7 +4074,7 @@
       "mute2": "N",
       "pitch": "D#4",
       "sample_rate": 44100,
-      "sha256": "b870491299adc34c5341928d908b5e0ac1656460decd64d7463b0daeac85323d",
+      "sha256": "e0539bd9a108f30e224b6b8c1ba6e613dfb291e009998f956ef1f82e2321a7c7",
       "source": "orchideasol",
       "technique": "slap"
     },
@@ -4088,7 +4088,7 @@
       "mute2": "N",
       "pitch": "D4",
       "sample_rate": 44100,
-      "sha256": "b3b43b7f19c9ec4427d6a15cf6b7f4dca7a75ada15a25dc03638de8957d854c4",
+      "sha256": "15c199e0f2bf9e14c6d8bfbe7cb414816e8014b1559350ae9d111a480da1bf8b",
       "source": "orchideasol",
       "technique": "slap"
     },
@@ -4102,7 +4102,7 @@
       "mute2": "N",
       "pitch": "E4",
       "sample_rate": 44100,
-      "sha256": "88e3840285181a86698c5420ac1d26bedc87f1a794847be0d41bb7645e9f550e",
+      "sha256": "703ee4ce6ca45b221afc56c7f373bf9832b34d84434a11ba7b12e086de6c2d0f",
       "source": "orchideasol",
       "technique": "slap"
     },
@@ -4116,7 +4116,7 @@
       "mute2": "N",
       "pitch": "F#3",
       "sample_rate": 44100,
-      "sha256": "703fab380be9c803858e70b44dbd8f7037c727ccf2f7dc7a4eeebf2dcc75811c",
+      "sha256": "2eb413bd73d5a5e27c423b0d7d8ae5c7952ec2034bb5d6ffd8cacf90a1bf2117",
       "source": "orchideasol",
       "technique": "slap"
     },
@@ -4130,7 +4130,7 @@
       "mute2": "N",
       "pitch": "F#4",
       "sample_rate": 44100,
-      "sha256": "ef8bf9681dbf40bf1e865a54a7e5c2bd2afaaaf08f20c839f06d30ef44f102bf",
+      "sha256": "683fe4b2aad981180caef19c1b37221fb63fe6af9a36211b315f5a9693f9f9c3",
       "source": "orchideasol",
       "technique": "slap"
     },
@@ -4144,7 +4144,7 @@
       "mute2": "N",
       "pitch": "G#3",
       "sample_rate": 44100,
-      "sha256": "1b0c1f820a21a814037f01f05fc9661e1470f5ef63743a5a0068b5705cbf2521",
+      "sha256": "0d342df20ffb7096e1966e4d1013e842a9d77c2caee58dcffa089c81d68ca83f",
       "source": "orchideasol",
       "technique": "slap"
     },
@@ -4158,7 +4158,7 @@
       "mute2": "N",
       "pitch": "G#4",
       "sample_rate": 44100,
-      "sha256": "bb54690753a0579f9be59301219cb44de7f29b7221e85d724f23b5ec537c3155",
+      "sha256": "1261137073efbf02ec403e9fd2f847d15d72d968a19940300a8fbb1e91d04146",
       "source": "orchideasol",
       "technique": "slap"
     },
@@ -4172,7 +4172,7 @@
       "mute2": "N",
       "pitch": "G3",
       "sample_rate": 44100,
-      "sha256": "a965030807f4432dddf0180ed5421cda56ee143127a4ab4fbfbaa6f6c22deffe",
+      "sha256": "6307d1808470f7d3e3c1b4525ff704c8e4e5e14fcfafb4bd676c16a9fe84c27a",
       "source": "orchideasol",
       "technique": "slap"
     },
@@ -4186,7 +4186,7 @@
       "mute2": "N",
       "pitch": "G4",
       "sample_rate": 44100,
-      "sha256": "9cb5800c626e9fe0a83e186bf726f1ca5e64ea57e7ad946f86e48ad78b4fa3ea",
+      "sha256": "b4f082747f519f91eba2e94c1d136e201995bf9a70641d222f2514d5a8c3074e",
       "source": "orchideasol",
       "technique": "slap"
     }

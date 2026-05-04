@@ -3,7 +3,7 @@
   "version": 1,
   "audio": "TpC-flatt-F5-mf-N-N.wav",
   "class": "TpC-flatt",
-  "annotatedAt": "2026-05-04T08:08:48.037169+00:00",
+  "annotatedAt": "2026-05-04T08:53:37.781114+00:00",
   "detectorVersion": "orchideasol:peak-rms-gradient",
   "notes": "Auto-converted from OrchideaSOL technique=flatt, pitch=F5, dynamic=mf. Onset = first window where RMS > 1% of peak RMS. sample_rate=44100, window_size=2048.",
   "markers": [

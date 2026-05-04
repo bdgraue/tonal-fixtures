@@ -3,7 +3,7 @@
   "version": 1,
   "audio": "0072.wav",
   "class": "good-sound",
-  "annotatedAt": "2026-05-04T06:42:49.304654+00:00",
+  "annotatedAt": "2026-05-04T09:03:12.503825+00:00",
   "detectorVersion": "good-sounds:attack",
   "notes": "Auto-converted from Good-Sounds track id=4901 (attack=8021 samples, semitone=56, dynamics=f). sample_rate=48000, window_size=2048.",
   "markers": [
