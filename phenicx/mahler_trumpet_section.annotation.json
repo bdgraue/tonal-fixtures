@@ -1,0 +1,487 @@
+{
+  "format": "tonal-articulation",
+  "version": 1,
+  "audio": "mahler_trumpet_section.wav",
+  "class": "phenicx_trumpet_section",
+  "annotatedAt": "2026-05-04T06:11:57.216705+00:00",
+  "detectorVersion": "phenicx-anechoic:trumpet.txt",
+  "notes": "Auto-converted from PHENICX-Anechoic mahler_trumpet.txt. sample_rate=44100, window_size=2048, note_count=119 (deduped @ 5ms).",
+  "markers": [
+    {
+      "frame": 81,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 242,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 247,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 260,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 272,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 329,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 331,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 334,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 336,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 398,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 442,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 481,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 535,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 538,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 539,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 543,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 604,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 610,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 617,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 624,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 631,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 635,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 638,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 695,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 753,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 981,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 983,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 986,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 988,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1050,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1054,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1058,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1063,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1144,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1149,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1154,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1158,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1181,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1185,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1199,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1212,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1261,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1264,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1276,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1291,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1342,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1344,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1357,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1370,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1393,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1396,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1408,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1422,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1468,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1475,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1521,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1528,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1864,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1876,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1889,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1901,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1912,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1914,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1927,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1937,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1940,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1959,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1963,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1974,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1979,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1982,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1986,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1991,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1997,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2027,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2032,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2045,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2056,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2075,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2080,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2085,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2090,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2096,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2099,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2102,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2216,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2227,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2238,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2250,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2271,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2273,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2283,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2288,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2294,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2298,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2580,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2586,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2598,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2611,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2628,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2629,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2634,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2640,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2645,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2653,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2656,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2659,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2727,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2731,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2748,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2752,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2755,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2757,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2765,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2781,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2782,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2794,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2794,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2797,
+      "type": "phrase_start"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "format": "tonal-corpus-manifest",
+  "generated_at": "2026-05-04T06:11:51.941040+00:00",
+  "source": "phenicx_anechoic",
+  "tracks": [
+    {
+      "annotation_relpath": "beethoven_trumpet.txt",
+      "audio_relpath": "beethoven_trumpet_section.wav",
+      "duration_s": 191.054,
+      "license": "non-commercial",
+      "piece": "beethoven",
+      "sample_rate": 44100,
+      "sha256": "db1dcd6085774f35702ce77c83869084e46c74bf1390eaf7669603d1e1e81f7c",
+      "source": "phenicx_anechoic",
+      "stem_count": 2
+    },
+    {
+      "annotation_relpath": "bruckner_trumpet.txt",
+      "audio_relpath": "bruckner_trumpet_section.wav",
+      "duration_s": 87.028,
+      "license": "non-commercial",
+      "piece": "bruckner",
+      "sample_rate": 44100,
+      "sha256": "88e82b6140cbce558c53dce17174e630dff927a59d5187e517ec00b07a9b90d1",
+      "source": "phenicx_anechoic",
+      "stem_count": 3
+    },
+    {
+      "annotation_relpath": "mahler_trumpet.txt",
+      "audio_relpath": "mahler_trumpet_section.wav",
+      "duration_s": 132.075,
+      "license": "non-commercial",
+      "piece": "mahler",
+      "sample_rate": 44100,
+      "sha256": "2a338b0f6b89726c2daecb6b82f10cb63a1a32d0d835942813f9ea9d93ea796e",
+      "source": "phenicx_anechoic",
+      "stem_count": 4
+    }
+  ],
+  "version": 1,
+  "via": "mirdata==1.0.0"
+}

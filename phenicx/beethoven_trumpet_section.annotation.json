@@ -1,0 +1,183 @@
+{
+  "format": "tonal-articulation",
+  "version": 1,
+  "audio": "beethoven_trumpet_section.wav",
+  "class": "phenicx_trumpet_section",
+  "annotatedAt": "2026-05-04T06:11:57.216278+00:00",
+  "detectorVersion": "phenicx-anechoic:trumpet.txt",
+  "notes": "Auto-converted from PHENICX-Anechoic beethoven_trumpet.txt. sample_rate=44100, window_size=2048, note_count=43 (deduped @ 5ms).",
+  "markers": [
+    {
+      "frame": 92,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 94,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 263,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 264,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 426,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 426,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 586,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 587,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1222,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1373,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1373,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1525,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1526,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1601,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1674,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 1674,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2657,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2694,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2694,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2730,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2731,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2769,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2806,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2844,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2845,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2880,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2880,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2916,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2917,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2953,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2954,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 2989,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 3025,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 3060,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 3096,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 3096,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 3133,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 3169,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 3170,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 3206,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 3206,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 4061,
+      "type": "phrase_start"
+    },
+    {
+      "frame": 4062,
+      "type": "phrase_start"
+    }
+  ]
+}
