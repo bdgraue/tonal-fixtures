@@ -1,0 +1,15 @@
+{
+  "format": "tonal-articulation",
+  "version": 1,
+  "audio": "0075.wav",
+  "class": "bad-dynamics-stability-tremolo",
+  "annotatedAt": "2026-05-04T06:42:49.297398+00:00",
+  "detectorVersion": "good-sounds:attack",
+  "notes": "Auto-converted from Good-Sounds track id=3827 (attack=8410 samples, semitone=47, dynamics=~). sample_rate=48000, window_size=2048.",
+  "markers": [
+    {
+      "frame": 4,
+      "type": "phrase_start"
+    }
+  ]
+}

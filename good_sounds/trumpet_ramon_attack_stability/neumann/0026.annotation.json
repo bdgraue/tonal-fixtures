@@ -1,0 +1,15 @@
+{
+  "format": "tonal-articulation",
+  "version": 1,
+  "audio": "0026.wav",
+  "class": "good-attack-no-picat",
+  "annotatedAt": "2026-05-04T06:42:49.299776+00:00",
+  "detectorVersion": "good-sounds:attack",
+  "notes": "Auto-converted from Good-Sounds track id=4272 (attack=15368 samples, semitone=44, dynamics=None). sample_rate=48000, window_size=2048.",
+  "markers": [
+    {
+      "frame": 8,
+      "type": "phrase_start"
+    }
+  ]
+}
