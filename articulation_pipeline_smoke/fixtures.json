@@ -1,0 +1,91 @@
+{
+  "fixtures": [
+    {
+      "audio_22050_bin": "TpC-ord-A#3-ff-N-T23u_R100u.audio_22050.bin",
+      "audio_22050_samples": 131419,
+      "centre_sample_in_source": 5120,
+      "centre_sample_in_target": 2560,
+      "patch_bin": "TpC-ord-A#3-ff-N-T23u_R100u.patch.bin",
+      "patch_max": 1.3324639797210693,
+      "patch_min": -1.2697888612747192,
+      "patch_shape": [
+        64,
+        40
+      ],
+      "source_sample_rate": 44100,
+      "technique": "ord",
+      "wav": "TpC-ord-A#3-ff-N-T23u_R100u.wav"
+    },
+    {
+      "audio_22050_bin": "TpC-flatt-A#3-ff-N-N.audio_22050.bin",
+      "audio_22050_samples": 111516,
+      "centre_sample_in_source": 5120,
+      "centre_sample_in_target": 2560,
+      "patch_bin": "TpC-flatt-A#3-ff-N-N.patch.bin",
+      "patch_max": 0.7858797311782837,
+      "patch_min": -1.7112853527069092,
+      "patch_shape": [
+        64,
+        40
+      ],
+      "source_sample_rate": 44100,
+      "technique": "flatt",
+      "wav": "TpC-flatt-A#3-ff-N-N.wav"
+    },
+    {
+      "audio_22050_bin": "TpC-sfz-A#3-f-N-T17u_R100d.audio_22050.bin",
+      "audio_22050_samples": 58450,
+      "centre_sample_in_source": 5120,
+      "centre_sample_in_target": 2560,
+      "patch_bin": "TpC-sfz-A#3-f-N-T17u_R100d.patch.bin",
+      "patch_max": 1.2610982656478882,
+      "patch_min": -1.3522546291351318,
+      "patch_shape": [
+        64,
+        40
+      ],
+      "source_sample_rate": 44100,
+      "technique": "sfz",
+      "wav": "TpC-sfz-A#3-f-N-T17u_R100d.wav"
+    },
+    {
+      "audio_22050_bin": "TpC-brassy-A#3-ff-N-T23u.audio_22050.bin",
+      "audio_22050_samples": 86212,
+      "centre_sample_in_source": 5120,
+      "centre_sample_in_target": 2560,
+      "patch_bin": "TpC-brassy-A#3-ff-N-T23u.patch.bin",
+      "patch_max": 1.3869526386260986,
+      "patch_min": -1.1565033197402954,
+      "patch_shape": [
+        64,
+        40
+      ],
+      "source_sample_rate": 44100,
+      "technique": "brassy",
+      "wav": "TpC-brassy-A#3-ff-N-T23u.wav"
+    },
+    {
+      "audio_22050_bin": "TpC-pdl_tone-C#3-mf-N-N.audio_22050.bin",
+      "audio_22050_samples": 142755,
+      "centre_sample_in_source": 5120,
+      "centre_sample_in_target": 2560,
+      "patch_bin": "TpC-pdl_tone-C#3-mf-N-N.patch.bin",
+      "patch_max": 1.5228683948516846,
+      "patch_min": -1.2589668035507202,
+      "patch_shape": [
+        64,
+        40
+      ],
+      "source_sample_rate": 44100,
+      "technique": "pdl_tone",
+      "wav": "TpC-pdl_tone-C#3-mf-N-N.wav"
+    }
+  ],
+  "format": "tonal-articulation-smoke-fixtures",
+  "hop_samples": 110,
+  "n_fft": 1024,
+  "n_mels": 64,
+  "patch_frames": 40,
+  "target_sr": 22050,
+  "version": 1
+}
