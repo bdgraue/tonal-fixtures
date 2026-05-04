@@ -1,0 +1,15 @@
+{
+  "format": "tonal-articulation",
+  "version": 1,
+  "audio": "TpC-flatt-F4-ff-N-R100u.wav",
+  "class": "TpC-flatt",
+  "annotatedAt": "2026-05-04T08:08:48.034240+00:00",
+  "detectorVersion": "orchideasol:peak-rms-gradient",
+  "notes": "Auto-converted from OrchideaSOL technique=flatt, pitch=F4, dynamic=ff. Onset = first window where RMS > 1% of peak RMS. sample_rate=44100, window_size=2048.",
+  "markers": [
+    {
+      "frame": 3,
+      "type": "phrase_start"
+    }
+  ]
+}

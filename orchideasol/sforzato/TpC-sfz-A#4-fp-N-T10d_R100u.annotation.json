@@ -1,0 +1,15 @@
+{
+  "format": "tonal-articulation",
+  "version": 1,
+  "audio": "TpC-sfz-A#4-fp-N-T10d_R100u.wav",
+  "class": "TpC-sfz",
+  "annotatedAt": "2026-05-04T08:08:48.129966+00:00",
+  "detectorVersion": "orchideasol:peak-rms-gradient",
+  "notes": "Auto-converted from OrchideaSOL technique=sfz, pitch=A#4, dynamic=fp. Onset = first window where RMS > 1% of peak RMS. sample_rate=44100, window_size=2048.",
+  "markers": [
+    {
+      "frame": 2,
+      "type": "phrase_start"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "format": "tonal-articulation",
+  "version": 1,
+  "audio": "TpC-ord-F4-pp-N-T12u.wav",
+  "class": "TpC-ord",
+  "annotatedAt": "2026-05-04T08:08:48.107454+00:00",
+  "detectorVersion": "orchideasol:peak-rms-gradient",
+  "notes": "Auto-converted from OrchideaSOL technique=ord, pitch=F4, dynamic=pp. Onset = first window where RMS > 1% of peak RMS. sample_rate=44100, window_size=2048.",
+  "markers": [
+    {
+      "frame": 2,
+      "type": "phrase_start"
+    }
+  ]
+}
